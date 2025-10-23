@@ -1,0 +1,1001 @@
+MaterialID,MaterialName,Category,SupplierName,UnitOfMeasure,UnitCost,StockQuantity,ReorderLevel,LeadTimeDays,LastRestockDate,Region
+M003,Meta,Surface Coating,WrapPro Solutions,kg,9.96,36380,7571,10,10/8/2025,Ontario
+M007,Crushed Limestone,Fiberglass,North PetroChem,roll,1.93,63738,10612,5,10/16/2025,Quebec
+M005,Crushed Limestone,Asphalt,WrapPro Solutions,roll,6.79,16077,10318,8,10/18/2025,Manitoba
+M009,Adhesive Compound,Asphalt,PaperFlex Supply,kg,2.39,49978,18326,6,10/7/2025,Manitoba
+M005,Release Paper,Adhesive,StoneWorks Ltd,roll,0.34,69817,17737,9,10/1/2025,Ontario
+M006,Fiberglass Mat,Fiberglass,PaperFlex Supply,kg,4.85,50990,10618,5,9/30/2025,Manitoba
+M002,Granules (Slate Grey),Adhesive,PetroPolymers Inc,kg,9.96,37637,478,8,10/4/2025,Quebec
+M008,Fiberglass Mat,Filler,North PetroChem,roll,3.02,2633,4852,9,10/2/2025,Manitoba
+M002,Meta,Adhesive,WrapPro Solutions,kg,6.15,73469,19975,7,10/12/2025,Manitoba
+M007,Polymer Additive,Adhesive,PaperFlex Supply,kg,6.31,49088,6054,4,10/5/2025,Alberta
+M005,Packaging Film,Filler,FlexChem Industries,roll,2.04,10940,19389,5,10/16/2025,Quebec
+M008,Crushed Limestone,Asphalt,SealTech Corp,kg,7.92,61070,15993,7,10/11/2025,Manitoba
+M010,Packaging Film,Additive,WrapPro Solutions,roll,5.65,77903,2313,7,10/13/2025,Alberta
+M005,Fiberglass Mat,Adhesive,PaperFlex Supply,roll,0.76,11462,1220,5,10/11/2025,Manitoba
+M001,Oxidized Asphalt,Packaging,North PetroChem,kg,3.92,11416,5967,9,10/18/2025,Alberta
+M006,Adhesive Compound,Fiberglass,North PetroChem,roll,1.51,32262,16514,8,10/10/2025,Manitoba
+M003,Release Paper,Adhesive,StoneWorks Ltd,kg,10.91,17684,1990,8,10/11/2025,Quebec
+M007,Oxidized Asphalt,Asphalt,FlexChem Industries,kg,7.57,48801,349,9,10/17/2025,Alberta
+M003,Fiberglass Mat,Packaging,FlexChem Industries,roll,6.07,77915,512,10,10/11/2025,Ontario
+M004,Granules (Slate Grey),Adhesive,North PetroChem,roll,2.69,39474,10321,8,10/2/2025,Ontario
+M001,Fiberglass Mat,Packaging,North PetroChem,roll,9.86,16675,10576,6,10/19/2025,Ontario
+M009,Packaging Film,Filler,StoneWorks Ltd,kg,11.02,75429,7677,5,10/7/2025,Alberta
+M009,Granules (Slate Grey),Asphalt,StoneWorks Ltd,roll,9.33,71509,2805,7,10/6/2025,Manitoba
+M007,Meta,Fiberglass,WrapPro Solutions,kg,4.98,74164,19257,6,10/11/2025,Alberta
+M001,Granules (Slate Grey),Filler,PaperFlex Supply,roll,6.82,21210,13505,4,10/4/2025,Quebec
+M004,Bitumen Modifier,Surface Coating,MatTech Canada,roll,10.6,15972,16216,9,10/6/2025,Ontario
+M004,Release Paper,Filler,PaperFlex Supply,roll,8.48,30768,4522,4,10/17/2025,Quebec
+M010,Polymer Additive,Surface Coating,WrapPro Solutions,roll,11.96,35742,15830,10,10/15/2025,Alberta
+M005,Oxidized Asphalt,Fiberglass,North PetroChem,kg,0.43,60737,10035,8,10/11/2025,Manitoba
+M004,Release Paper,Filler,North PetroChem,roll,10.59,67488,17485,8,10/18/2025,Alberta
+M010,Crushed Limestone,Asphalt,North PetroChem,roll,7.43,35346,19200,5,10/3/2025,Manitoba
+M001,Granules (Slate Grey),Fiberglass,North PetroChem,roll,2.31,28316,19924,8,10/18/2025,Quebec
+M003,Granules (Slate Grey),Filler,PaperFlex Supply,roll,2.18,16449,1125,7,10/15/2025,Alberta
+M006,Granules (Slate Grey),Additive,ColorRock Materials,kg,5.38,67414,10771,7,10/16/2025,Manitoba
+M006,Release Paper,Asphalt,FlexChem Industries,kg,8.25,61945,2356,5,10/13/2025,Manitoba
+M004,Crushed Limestone,Packaging,PaperFlex Supply,kg,11.95,57748,5240,7,10/18/2025,Alberta
+M010,Granules (Slate Grey),Surface Coating,SealTech Corp,kg,9.68,34148,1357,5,9/28/2025,Quebec
+M009,Meta,Fiberglass,SealTech Corp,kg,4.06,37968,10867,9,10/8/2025,Quebec
+M010,Fiberglass Mat,Additive,North PetroChem,kg,9.84,58825,10645,8,10/8/2025,Quebec
+M003,Release Paper,Adhesive,WrapPro Solutions,kg,5.93,70792,17427,4,9/29/2025,Ontario
+M003,Crushed Limestone,Additive,ColorRock Materials,kg,10.43,33183,381,6,10/12/2025,Alberta
+M009,Meta,Surface Coating,SealTech Corp,kg,11.29,71517,12323,10,9/30/2025,Manitoba
+M005,Adhesive Compound,Asphalt,FlexChem Industries,kg,10.31,72546,4587,7,10/10/2025,Manitoba
+M005,Bitumen Modifier,Fiberglass,PetroPolymers Inc,roll,1.86,9483,9317,6,10/12/2025,Alberta
+M007,Adhesive Compound,Asphalt,PaperFlex Supply,roll,1.9,50043,9023,5,10/13/2025,Ontario
+M009,Granules (Slate Grey),Filler,PaperFlex Supply,kg,0.39,54683,15072,9,10/16/2025,Alberta
+M001,Oxidized Asphalt,Surface Coating,North PetroChem,roll,5.0,43894,17761,8,10/8/2025,Alberta
+M006,Adhesive Compound,Additive,PetroPolymers Inc,roll,4.5,61869,17262,9,10/12/2025,Manitoba
+M003,Meta,Filler,SealTech Corp,roll,11.42,7850,19713,4,9/30/2025,Manitoba
+M001,Oxidized Asphalt,Fiberglass,MatTech Canada,kg,3.1,68759,11943,5,9/30/2025,Ontario
+M002,Granules (Slate Grey),Additive,North PetroChem,kg,9.0,44018,2445,8,10/7/2025,Alberta
+M002,Polymer Additive,Fiberglass,North PetroChem,roll,4.93,60257,13171,6,10/5/2025,Alberta
+M002,Polymer Additive,Fiberglass,FlexChem Industries,roll,8.2,52994,1580,10,10/17/2025,Quebec
+M005,Polymer Additive,Adhesive,North PetroChem,roll,10.05,48461,19598,6,10/9/2025,Ontario
+M010,Granules (Slate Grey),Packaging,SealTech Corp,kg,1.29,15830,9239,4,10/4/2025,Manitoba
+M009,Crushed Limestone,Surface Coating,FlexChem Industries,kg,8.14,13460,13978,9,10/1/2025,Manitoba
+M005,Bitumen Modifier,Filler,PetroPolymers Inc,roll,2.15,74546,16125,10,10/10/2025,Ontario
+M005,Granules (Slate Grey),Asphalt,ColorRock Materials,roll,5.76,25422,16329,9,10/11/2025,Alberta
+M005,Bitumen Modifier,Packaging,SealTech Corp,kg,8.76,34473,15641,5,10/10/2025,Manitoba
+M003,Adhesive Compound,Additive,PaperFlex Supply,roll,2.46,37543,554,6,10/2/2025,Ontario
+M004,Polymer Additive,Surface Coating,ColorRock Materials,kg,1.41,50766,4204,10,10/14/2025,Manitoba
+M005,Meta,Packaging,SealTech Corp,kg,7.52,29577,13922,10,10/8/2025,Manitoba
+M010,Release Paper,Fiberglass,MatTech Canada,roll,6.86,54718,2332,8,10/15/2025,Ontario
+M002,Polymer Additive,Additive,MatTech Canada,roll,0.42,32454,4018,10,10/17/2025,Quebec
+M002,Crushed Limestone,Surface Coating,North PetroChem,roll,11.62,34135,17335,6,10/5/2025,Quebec
+M008,Granules (Slate Grey),Additive,ColorRock Materials,kg,8.66,53442,2806,6,9/30/2025,Quebec
+M004,Crushed Limestone,Additive,PetroPolymers Inc,kg,10.5,9053,5501,8,10/16/2025,Quebec
+M002,Polymer Additive,Packaging,SealTech Corp,roll,2.7,72781,5031,9,10/12/2025,Ontario
+M002,Packaging Film,Filler,WrapPro Solutions,kg,12.1,45381,18811,4,10/1/2025,Manitoba
+M010,Packaging Film,Filler,ColorRock Materials,roll,6.18,23762,6722,5,10/3/2025,Ontario
+M009,Packaging Film,Fiberglass,StoneWorks Ltd,kg,11.53,76756,991,10,10/9/2025,Ontario
+M004,Release Paper,Asphalt,FlexChem Industries,kg,2.37,13244,545,9,10/16/2025,Ontario
+M007,Polymer Additive,Surface Coating,StoneWorks Ltd,kg,0.34,59520,15967,10,10/9/2025,Alberta
+M005,Crushed Limestone,Additive,StoneWorks Ltd,kg,5.03,74788,19912,8,10/2/2025,Quebec
+M008,Adhesive Compound,Asphalt,MatTech Canada,kg,0.99,22509,17834,6,10/11/2025,Quebec
+M004,Release Paper,Adhesive,MatTech Canada,roll,9.51,21391,6743,8,10/3/2025,Manitoba
+M007,Release Paper,Asphalt,StoneWorks Ltd,roll,5.29,76091,6143,10,10/2/2025,Ontario
+M001,Packaging Film,Adhesive,SealTech Corp,roll,7.22,78657,10886,5,10/14/2025,Alberta
+M010,Adhesive Compound,Surface Coating,SealTech Corp,kg,10.35,19587,13092,7,10/18/2025,Alberta
+M009,Release Paper,Additive,WrapPro Solutions,roll,2.66,64452,16540,5,10/6/2025,Quebec
+M004,Meta,Adhesive,WrapPro Solutions,kg,3.24,38676,16462,9,10/18/2025,Ontario
+M002,Fiberglass Mat,Filler,WrapPro Solutions,kg,9.62,38776,19534,10,10/2/2025,Ontario
+M010,Bitumen Modifier,Asphalt,PetroPolymers Inc,kg,3.89,16752,2929,7,10/2/2025,Alberta
+M003,Fiberglass Mat,Fiberglass,PetroPolymers Inc,roll,12.16,71237,11140,7,10/18/2025,Quebec
+M001,Oxidized Asphalt,Additive,SealTech Corp,roll,9.98,31293,5558,5,10/17/2025,Manitoba
+M002,Packaging Film,Asphalt,FlexChem Industries,roll,8.11,28775,17337,5,10/18/2025,Alberta
+M006,Polymer Additive,Additive,PetroPolymers Inc,roll,11.68,2966,2670,9,10/16/2025,Ontario
+M003,Crushed Limestone,Asphalt,PaperFlex Supply,roll,3.02,11571,16791,8,10/7/2025,Ontario
+M002,Crushed Limestone,Fiberglass,FlexChem Industries,kg,6.42,16150,16711,6,10/2/2025,Ontario
+M005,Polymer Additive,Filler,North PetroChem,roll,5.56,28718,6458,10,10/15/2025,Alberta
+M006,Fiberglass Mat,Packaging,StoneWorks Ltd,kg,6.3,45986,12440,9,9/28/2025,Manitoba
+M004,Oxidized Asphalt,Adhesive,FlexChem Industries,roll,12.41,69473,3539,8,10/15/2025,Ontario
+M002,Crushed Limestone,Asphalt,SealTech Corp,kg,7.38,71146,10013,8,10/1/2025,Alberta
+M007,Granules (Slate Grey),Asphalt,ColorRock Materials,kg,9.4,3944,15136,4,10/15/2025,Manitoba
+M002,Release Paper,Fiberglass,MatTech Canada,roll,4.5,77228,17311,4,10/4/2025,Manitoba
+M010,Release Paper,Filler,WrapPro Solutions,roll,3.05,59672,15146,7,10/5/2025,Manitoba
+M009,Oxidized Asphalt,Additive,FlexChem Industries,kg,7.23,71303,4059,9,10/13/2025,Alberta
+M001,Adhesive Compound,Surface Coating,WrapPro Solutions,roll,3.6,36817,3812,7,10/12/2025,Manitoba
+M004,Granules (Slate Grey),Filler,WrapPro Solutions,kg,3.76,36902,2954,5,10/1/2025,Manitoba
+M006,Adhesive Compound,Additive,PaperFlex Supply,kg,0.49,26481,19727,4,10/16/2025,Manitoba
+M003,Bitumen Modifier,Asphalt,ColorRock Materials,roll,9.91,2672,13556,4,10/19/2025,Manitoba
+M003,Fiberglass Mat,Additive,FlexChem Industries,kg,11.15,69821,15135,6,10/8/2025,Manitoba
+M010,Crushed Limestone,Surface Coating,WrapPro Solutions,kg,1.0,78882,13746,5,10/10/2025,Alberta
+M009,Granules (Slate Grey),Filler,SealTech Corp,kg,11.82,75971,17368,6,10/15/2025,Manitoba
+M010,Release Paper,Fiberglass,FlexChem Industries,roll,3.94,7732,15883,5,9/30/2025,Manitoba
+M002,Adhesive Compound,Surface Coating,PaperFlex Supply,roll,2.17,70585,5566,5,9/29/2025,Ontario
+M005,Crushed Limestone,Adhesive,MatTech Canada,roll,5.74,54634,7478,6,10/1/2025,Ontario
+M006,Polymer Additive,Asphalt,StoneWorks Ltd,roll,4.61,27669,3391,4,10/5/2025,Alberta
+M009,Meta,Asphalt,ColorRock Materials,roll,6.2,36440,6583,4,10/3/2025,Ontario
+M004,Release Paper,Fiberglass,PaperFlex Supply,kg,9.37,22466,349,5,10/18/2025,Quebec
+M010,Meta,Surface Coating,WrapPro Solutions,kg,4.27,73421,1956,4,10/14/2025,Quebec
+M009,Meta,Packaging,PetroPolymers Inc,roll,0.71,18846,13967,6,10/18/2025,Quebec
+M008,Fiberglass Mat,Adhesive,PetroPolymers Inc,roll,4.23,9906,18244,7,9/28/2025,Manitoba
+M005,Granules (Slate Grey),Additive,StoneWorks Ltd,kg,12.09,3051,8288,10,10/4/2025,Ontario
+M004,Bitumen Modifier,Surface Coating,WrapPro Solutions,roll,4.19,35393,8336,4,10/7/2025,Manitoba
+M003,Granules (Slate Grey),Fiberglass,StoneWorks Ltd,roll,6.42,73290,11658,8,10/13/2025,Alberta
+M004,Oxidized Asphalt,Asphalt,FlexChem Industries,kg,10.19,16727,1033,5,10/5/2025,Quebec
+M006,Polymer Additive,Adhesive,PetroPolymers Inc,kg,5.04,66285,4553,10,10/7/2025,Ontario
+M008,Adhesive Compound,Packaging,MatTech Canada,kg,10.5,9404,828,4,10/12/2025,Alberta
+M010,Packaging Film,Additive,StoneWorks Ltd,roll,7.71,57164,1742,9,10/6/2025,Manitoba
+M003,Fiberglass Mat,Asphalt,SealTech Corp,kg,2.94,65487,3748,5,10/16/2025,Ontario
+M002,Bitumen Modifier,Filler,PaperFlex Supply,roll,5.43,63350,15386,7,10/3/2025,Manitoba
+M003,Oxidized Asphalt,Asphalt,FlexChem Industries,kg,6.25,19551,2515,9,10/1/2025,Quebec
+M007,Meta,Packaging,WrapPro Solutions,kg,3.07,61957,18133,9,10/16/2025,Alberta
+M001,Fiberglass Mat,Asphalt,PaperFlex Supply,kg,10.55,38511,2207,10,10/13/2025,Quebec
+M004,Release Paper,Filler,PaperFlex Supply,roll,2.76,20002,16533,9,10/17/2025,Alberta
+M005,Oxidized Asphalt,Fiberglass,FlexChem Industries,kg,11.98,35369,15242,8,10/15/2025,Ontario
+M008,Crushed Limestone,Asphalt,PetroPolymers Inc,kg,7.66,74965,10255,9,10/7/2025,Alberta
+M009,Granules (Slate Grey),Additive,North PetroChem,kg,4.14,31787,14284,9,9/29/2025,Alberta
+M006,Bitumen Modifier,Fiberglass,FlexChem Industries,kg,2.0,33874,8386,8,10/18/2025,Quebec
+M009,Crushed Limestone,Surface Coating,ColorRock Materials,roll,8.83,69435,8348,8,10/16/2025,Ontario
+M006,Release Paper,Filler,MatTech Canada,kg,5.87,67927,3736,8,9/29/2025,Alberta
+M001,Packaging Film,Fiberglass,SealTech Corp,roll,2.02,64344,9410,5,9/29/2025,Alberta
+M003,Fiberglass Mat,Adhesive,StoneWorks Ltd,kg,10.9,39415,325,8,10/14/2025,Quebec
+M004,Meta,Asphalt,SealTech Corp,roll,5.12,52101,16889,5,10/2/2025,Alberta
+M007,Polymer Additive,Surface Coating,North PetroChem,kg,11.63,21403,7697,10,10/13/2025,Alberta
+M008,Release Paper,Fiberglass,ColorRock Materials,kg,1.92,17855,9645,9,9/28/2025,Quebec
+M006,Adhesive Compound,Asphalt,PetroPolymers Inc,roll,0.3,50064,9401,10,10/12/2025,Manitoba
+M004,Polymer Additive,Packaging,MatTech Canada,kg,2.18,6470,3906,9,10/15/2025,Alberta
+M010,Crushed Limestone,Packaging,PetroPolymers Inc,kg,7.29,59339,4040,10,10/9/2025,Manitoba
+M003,Adhesive Compound,Fiberglass,MatTech Canada,roll,0.49,53378,10137,10,10/15/2025,Quebec
+M009,Fiberglass Mat,Surface Coating,North PetroChem,roll,12.24,57155,15581,10,10/10/2025,Manitoba
+M002,Oxidized Asphalt,Fiberglass,StoneWorks Ltd,kg,10.56,13661,15903,5,10/13/2025,Alberta
+M005,Adhesive Compound,Additive,WrapPro Solutions,roll,5.93,43721,18825,6,9/29/2025,Manitoba
+M007,Release Paper,Adhesive,StoneWorks Ltd,kg,0.63,21962,14119,5,10/1/2025,Alberta
+M008,Crushed Limestone,Additive,MatTech Canada,roll,4.63,72025,10978,4,10/2/2025,Ontario
+M002,Fiberglass Mat,Additive,StoneWorks Ltd,kg,9.08,68017,10369,4,9/30/2025,Alberta
+M006,Adhesive Compound,Packaging,FlexChem Industries,roll,9.92,78853,14096,10,10/12/2025,Alberta
+M003,Packaging Film,Adhesive,North PetroChem,kg,4.46,60563,1064,7,10/17/2025,Quebec
+M010,Release Paper,Filler,North PetroChem,roll,9.51,21570,324,8,10/1/2025,Alberta
+M002,Oxidized Asphalt,Surface Coating,PetroPolymers Inc,roll,3.11,68939,13093,8,10/17/2025,Alberta
+M002,Granules (Slate Grey),Surface Coating,PetroPolymers Inc,roll,11.87,31092,1283,9,10/19/2025,Manitoba
+M009,Meta,Filler,WrapPro Solutions,kg,10.84,43776,13298,7,10/13/2025,Ontario
+M009,Release Paper,Additive,North PetroChem,kg,1.91,43152,6757,7,10/18/2025,Ontario
+M010,Granules (Slate Grey),Fiberglass,PetroPolymers Inc,roll,7.79,73197,18447,5,10/11/2025,Ontario
+M010,Adhesive Compound,Packaging,StoneWorks Ltd,roll,11.04,48831,17403,8,10/14/2025,Quebec
+M005,Release Paper,Filler,MatTech Canada,roll,4.34,74559,10304,4,10/7/2025,Ontario
+M010,Crushed Limestone,Fiberglass,MatTech Canada,kg,9.81,32928,3317,6,10/11/2025,Manitoba
+M004,Meta,Adhesive,FlexChem Industries,roll,0.88,61762,11425,10,9/29/2025,Manitoba
+M002,Granules (Slate Grey),Filler,ColorRock Materials,roll,3.87,51217,2656,9,10/19/2025,Manitoba
+M005,Crushed Limestone,Adhesive,StoneWorks Ltd,kg,7.68,8706,14456,5,10/1/2025,Quebec
+M006,Meta,Packaging,StoneWorks Ltd,kg,8.88,66732,18214,7,9/28/2025,Quebec
+M002,Oxidized Asphalt,Surface Coating,ColorRock Materials,kg,3.06,67881,18118,9,10/1/2025,Manitoba
+M002,Fiberglass Mat,Asphalt,StoneWorks Ltd,kg,11.45,27104,16310,5,10/1/2025,Alberta
+M009,Release Paper,Adhesive,SealTech Corp,kg,2.17,49606,14159,4,10/17/2025,Quebec
+M004,Polymer Additive,Surface Coating,North PetroChem,roll,1.9,44295,10132,6,10/9/2025,Ontario
+M003,Crushed Limestone,Fiberglass,MatTech Canada,roll,3.56,37922,1534,4,10/10/2025,Manitoba
+M006,Oxidized Asphalt,Additive,FlexChem Industries,roll,1.75,13648,11090,6,10/6/2025,Quebec
+M002,Release Paper,Filler,FlexChem Industries,roll,4.19,44591,15499,8,10/6/2025,Manitoba
+M010,Meta,Adhesive,StoneWorks Ltd,kg,7.95,12785,9920,7,10/7/2025,Manitoba
+M007,Bitumen Modifier,Asphalt,StoneWorks Ltd,kg,10.62,40148,12781,6,10/19/2025,Manitoba
+M004,Packaging Film,Filler,ColorRock Materials,roll,4.6,77316,14602,7,10/10/2025,Ontario
+M008,Meta,Packaging,StoneWorks Ltd,roll,5.93,66667,9824,10,10/1/2025,Ontario
+M004,Release Paper,Surface Coating,StoneWorks Ltd,roll,11.37,74863,11958,8,9/30/2025,Alberta
+M001,Oxidized Asphalt,Additive,North PetroChem,kg,9.71,56301,3747,6,10/10/2025,Ontario
+M001,Crushed Limestone,Fiberglass,North PetroChem,roll,7.7,35165,12503,9,10/15/2025,Ontario
+M010,Meta,Surface Coating,WrapPro Solutions,roll,10.52,57090,16922,7,9/28/2025,Quebec
+M002,Granules (Slate Grey),Packaging,WrapPro Solutions,roll,5.05,58365,8750,5,10/13/2025,Manitoba
+M004,Oxidized Asphalt,Asphalt,PaperFlex Supply,roll,1.97,79302,15775,10,10/3/2025,Alberta
+M009,Polymer Additive,Surface Coating,PetroPolymers Inc,kg,8.85,53259,9317,8,9/30/2025,Ontario
+M009,Bitumen Modifier,Packaging,North PetroChem,roll,0.21,71926,9985,6,9/28/2025,Ontario
+M005,Oxidized Asphalt,Surface Coating,MatTech Canada,kg,10.57,36734,19603,6,10/11/2025,Alberta
+M001,Packaging Film,Additive,North PetroChem,kg,11.41,71029,18218,4,10/15/2025,Manitoba
+M003,Adhesive Compound,Filler,MatTech Canada,roll,1.59,73155,14458,9,10/13/2025,Ontario
+M010,Granules (Slate Grey),Surface Coating,WrapPro Solutions,roll,6.67,36013,1416,4,10/18/2025,Quebec
+M006,Release Paper,Additive,FlexChem Industries,kg,0.95,8204,10596,6,10/18/2025,Quebec
+M003,Crushed Limestone,Filler,SealTech Corp,kg,3.31,46799,10554,9,10/9/2025,Alberta
+M001,Granules (Slate Grey),Packaging,ColorRock Materials,kg,10.19,74837,17394,8,10/19/2025,Quebec
+M001,Fiberglass Mat,Asphalt,FlexChem Industries,kg,4.07,49588,6401,5,10/11/2025,Manitoba
+M002,Granules (Slate Grey),Packaging,North PetroChem,roll,7.82,75736,18364,7,10/14/2025,Manitoba
+M002,Oxidized Asphalt,Surface Coating,North PetroChem,roll,8.42,21271,10647,5,10/4/2025,Ontario
+M010,Oxidized Asphalt,Surface Coating,PetroPolymers Inc,kg,2.59,41389,5013,10,10/2/2025,Alberta
+M004,Bitumen Modifier,Fiberglass,PetroPolymers Inc,roll,6.84,9465,18754,8,10/1/2025,Ontario
+M006,Bitumen Modifier,Surface Coating,PetroPolymers Inc,kg,9.83,52754,8147,4,10/12/2025,Alberta
+M002,Fiberglass Mat,Asphalt,PetroPolymers Inc,kg,8.31,47922,3691,5,10/9/2025,Manitoba
+M002,Release Paper,Asphalt,SealTech Corp,roll,2.18,39817,10460,10,10/9/2025,Quebec
+M005,Release Paper,Filler,FlexChem Industries,roll,3.14,55902,432,8,10/2/2025,Alberta
+M007,Meta,Packaging,PaperFlex Supply,kg,5.43,30846,12044,9,10/6/2025,Ontario
+M004,Adhesive Compound,Filler,SealTech Corp,roll,1.99,71198,17468,9,10/11/2025,Manitoba
+M005,Adhesive Compound,Additive,WrapPro Solutions,roll,2.43,57668,11619,5,9/28/2025,Alberta
+M008,Oxidized Asphalt,Additive,North PetroChem,kg,6.53,28384,9236,10,10/10/2025,Quebec
+M004,Polymer Additive,Fiberglass,WrapPro Solutions,kg,10.9,4354,14329,8,10/4/2025,Manitoba
+M007,Crushed Limestone,Asphalt,PaperFlex Supply,roll,8.73,5842,5873,8,10/2/2025,Alberta
+M003,Fiberglass Mat,Additive,PaperFlex Supply,kg,10.84,50648,639,4,10/13/2025,Alberta
+M002,Release Paper,Surface Coating,PaperFlex Supply,roll,9.09,29404,3956,6,10/2/2025,Ontario
+M005,Adhesive Compound,Asphalt,PetroPolymers Inc,kg,12.12,8105,9548,10,10/10/2025,Ontario
+M004,Crushed Limestone,Additive,SealTech Corp,roll,7.94,53726,8323,6,10/13/2025,Ontario
+M003,Meta,Adhesive,WrapPro Solutions,kg,11.71,78454,1726,7,10/17/2025,Alberta
+M008,Polymer Additive,Additive,PaperFlex Supply,roll,2.87,63731,14928,9,10/9/2025,Alberta
+M006,Adhesive Compound,Filler,FlexChem Industries,kg,9.77,47205,11790,10,10/6/2025,Manitoba
+M007,Release Paper,Packaging,FlexChem Industries,roll,8.23,74280,9058,7,10/8/2025,Alberta
+M007,Fiberglass Mat,Surface Coating,PaperFlex Supply,kg,2.07,37685,15140,8,10/2/2025,Quebec
+M002,Bitumen Modifier,Filler,SealTech Corp,roll,6.2,46542,10930,8,10/8/2025,Ontario
+M006,Fiberglass Mat,Filler,PaperFlex Supply,roll,12.21,74765,13341,9,10/5/2025,Quebec
+M009,Fiberglass Mat,Surface Coating,PaperFlex Supply,roll,7.41,38669,8808,10,9/28/2025,Alberta
+M008,Packaging Film,Fiberglass,WrapPro Solutions,roll,10.77,46668,9973,6,10/16/2025,Ontario
+M008,Packaging Film,Packaging,StoneWorks Ltd,kg,9.69,9527,14010,9,10/5/2025,Quebec
+M006,Crushed Limestone,Adhesive,MatTech Canada,kg,2.33,79283,13905,4,10/17/2025,Manitoba
+M002,Polymer Additive,Adhesive,SealTech Corp,roll,0.7,79620,1826,9,10/15/2025,Quebec
+M005,Release Paper,Additive,North PetroChem,roll,12.46,9080,5521,7,10/8/2025,Ontario
+M001,Oxidized Asphalt,Surface Coating,ColorRock Materials,roll,4.73,7201,557,10,10/3/2025,Manitoba
+M003,Polymer Additive,Asphalt,ColorRock Materials,roll,3.32,34438,16575,8,10/7/2025,Ontario
+M006,Crushed Limestone,Filler,WrapPro Solutions,kg,3.2,62483,6401,7,10/8/2025,Quebec
+M009,Granules (Slate Grey),Fiberglass,FlexChem Industries,roll,11.5,42403,1115,4,10/10/2025,Ontario
+M001,Adhesive Compound,Surface Coating,SealTech Corp,kg,1.39,35498,12433,5,10/18/2025,Manitoba
+M007,Meta,Filler,WrapPro Solutions,kg,0.62,17578,14387,4,10/10/2025,Ontario
+M006,Packaging Film,Packaging,North PetroChem,roll,4.62,31958,5730,5,10/4/2025,Alberta
+M005,Release Paper,Surface Coating,North PetroChem,kg,8.92,29262,1598,5,10/14/2025,Alberta
+M002,Polymer Additive,Surface Coating,WrapPro Solutions,kg,4.0,29359,4904,9,9/30/2025,Alberta
+M002,Bitumen Modifier,Fiberglass,MatTech Canada,kg,6.72,10105,933,8,10/19/2025,Ontario
+M010,Polymer Additive,Asphalt,North PetroChem,roll,10.92,32356,18640,10,10/8/2025,Quebec
+M002,Adhesive Compound,Fiberglass,ColorRock Materials,roll,10.26,35505,19992,5,10/17/2025,Ontario
+M007,Meta,Filler,SealTech Corp,roll,12.42,31138,15140,9,10/10/2025,Manitoba
+M004,Polymer Additive,Additive,StoneWorks Ltd,kg,0.84,36269,6478,5,10/6/2025,Manitoba
+M002,Adhesive Compound,Fiberglass,ColorRock Materials,kg,3.65,13011,3761,5,9/29/2025,Alberta
+M004,Crushed Limestone,Filler,PaperFlex Supply,kg,11.63,4567,12765,6,10/4/2025,Alberta
+M003,Bitumen Modifier,Additive,PaperFlex Supply,kg,4.17,68298,14663,8,10/17/2025,Quebec
+M002,Meta,Surface Coating,ColorRock Materials,roll,5.19,39953,8441,8,10/15/2025,Alberta
+M007,Bitumen Modifier,Surface Coating,PetroPolymers Inc,roll,3.97,76821,10612,5,10/7/2025,Ontario
+M005,Oxidized Asphalt,Asphalt,PetroPolymers Inc,kg,0.66,6860,12074,4,10/16/2025,Quebec
+M001,Crushed Limestone,Additive,PaperFlex Supply,roll,8.06,15750,10025,10,10/8/2025,Quebec
+M005,Granules (Slate Grey),Packaging,PetroPolymers Inc,roll,7.65,53498,10670,4,10/11/2025,Alberta
+M010,Release Paper,Adhesive,PaperFlex Supply,roll,1.27,57516,3763,10,10/10/2025,Alberta
+M004,Bitumen Modifier,Surface Coating,SealTech Corp,kg,9.76,76869,13850,6,10/12/2025,Manitoba
+M009,Oxidized Asphalt,Surface Coating,ColorRock Materials,kg,8.96,30535,11867,4,10/19/2025,Ontario
+M004,Adhesive Compound,Adhesive,PetroPolymers Inc,roll,6.83,33086,6785,8,10/11/2025,Ontario
+M002,Fiberglass Mat,Adhesive,North PetroChem,roll,7.7,27613,600,9,9/28/2025,Manitoba
+M002,Crushed Limestone,Packaging,PetroPolymers Inc,kg,2.72,66074,7771,6,10/17/2025,Alberta
+M010,Fiberglass Mat,Packaging,ColorRock Materials,roll,0.6,55985,19666,8,10/12/2025,Quebec
+M007,Release Paper,Fiberglass,FlexChem Industries,kg,6.26,31119,5830,4,10/13/2025,Quebec
+M006,Adhesive Compound,Packaging,North PetroChem,kg,10.19,35434,7530,7,10/11/2025,Manitoba
+M004,Oxidized Asphalt,Fiberglass,FlexChem Industries,kg,2.67,55117,4208,4,10/5/2025,Alberta
+M006,Adhesive Compound,Surface Coating,MatTech Canada,kg,12.06,44996,17120,7,9/29/2025,Ontario
+M002,Release Paper,Adhesive,MatTech Canada,kg,8.44,50668,2833,7,10/5/2025,Quebec
+M006,Crushed Limestone,Packaging,SealTech Corp,roll,1.46,73928,16721,10,10/2/2025,Alberta
+M001,Granules (Slate Grey),Filler,StoneWorks Ltd,roll,1.23,46531,8145,6,10/17/2025,Quebec
+M004,Release Paper,Additive,SealTech Corp,roll,5.84,8092,15460,5,10/1/2025,Manitoba
+M003,Meta,Adhesive,North PetroChem,roll,9.75,69422,12213,6,10/19/2025,Ontario
+M010,Meta,Fiberglass,StoneWorks Ltd,roll,4.61,4971,8499,7,10/17/2025,Quebec
+M001,Meta,Adhesive,SealTech Corp,kg,2.32,7372,19257,7,10/15/2025,Quebec
+M002,Meta,Asphalt,PetroPolymers Inc,roll,8.23,63729,4904,4,9/29/2025,Alberta
+M004,Fiberglass Mat,Asphalt,PaperFlex Supply,roll,5.69,12906,2711,4,10/16/2025,Ontario
+M001,Adhesive Compound,Adhesive,WrapPro Solutions,kg,5.3,22715,13976,10,10/2/2025,Alberta
+M002,Crushed Limestone,Packaging,MatTech Canada,kg,5.13,56204,3612,7,10/2/2025,Ontario
+M009,Packaging Film,Fiberglass,FlexChem Industries,kg,9.27,36625,5917,10,10/9/2025,Quebec
+M005,Fiberglass Mat,Fiberglass,PetroPolymers Inc,roll,3.74,39283,3432,5,10/9/2025,Ontario
+M010,Oxidized Asphalt,Surface Coating,SealTech Corp,roll,1.23,71262,11157,4,10/19/2025,Alberta
+M005,Meta,Filler,PaperFlex Supply,kg,4.49,17888,4349,9,10/5/2025,Alberta
+M009,Oxidized Asphalt,Adhesive,PetroPolymers Inc,roll,10.35,19138,4948,9,10/12/2025,Alberta
+M003,Polymer Additive,Filler,SealTech Corp,roll,0.73,69498,8492,4,10/16/2025,Manitoba
+M009,Polymer Additive,Fiberglass,PetroPolymers Inc,kg,10.93,31696,9440,9,10/14/2025,Manitoba
+M010,Packaging Film,Adhesive,SealTech Corp,roll,3.82,72912,331,4,9/28/2025,Ontario
+M006,Granules (Slate Grey),Filler,FlexChem Industries,kg,9.47,45906,12259,10,10/11/2025,Quebec
+M001,Adhesive Compound,Adhesive,SealTech Corp,kg,0.44,63303,6940,9,10/9/2025,Alberta
+M006,Granules (Slate Grey),Filler,SealTech Corp,roll,7.56,74997,9156,4,9/29/2025,Quebec
+M007,Polymer Additive,Adhesive,FlexChem Industries,kg,6.02,27655,386,8,10/1/2025,Alberta
+M005,Polymer Additive,Packaging,MatTech Canada,roll,9.96,62132,12780,8,10/13/2025,Quebec
+M006,Granules (Slate Grey),Additive,FlexChem Industries,roll,11.45,70854,19636,4,10/7/2025,Alberta
+M005,Bitumen Modifier,Asphalt,WrapPro Solutions,roll,8.95,29664,15504,8,10/9/2025,Manitoba
+M004,Bitumen Modifier,Fiberglass,North PetroChem,kg,11.51,31098,14134,4,10/13/2025,Manitoba
+M001,Adhesive Compound,Adhesive,PaperFlex Supply,kg,10.14,45492,19665,10,10/1/2025,Alberta
+M001,Oxidized Asphalt,Filler,WrapPro Solutions,roll,2.36,48340,15952,10,10/16/2025,Alberta
+M007,Granules (Slate Grey),Filler,PetroPolymers Inc,roll,10.53,13345,15448,10,10/1/2025,Ontario
+M010,Meta,Filler,North PetroChem,kg,4.77,9293,14167,9,10/5/2025,Alberta
+M010,Adhesive Compound,Filler,PetroPolymers Inc,roll,1.02,48865,1566,5,10/3/2025,Ontario
+M004,Oxidized Asphalt,Adhesive,PaperFlex Supply,roll,8.37,62705,1819,4,10/6/2025,Ontario
+M002,Oxidized Asphalt,Fiberglass,FlexChem Industries,roll,3.73,63200,13344,8,10/15/2025,Alberta
+M010,Polymer Additive,Surface Coating,PaperFlex Supply,roll,6.18,27051,14376,7,10/19/2025,Alberta
+M005,Crushed Limestone,Additive,ColorRock Materials,kg,0.62,52337,19380,6,10/13/2025,Manitoba
+M002,Crushed Limestone,Adhesive,WrapPro Solutions,roll,5.91,38940,6528,4,9/30/2025,Ontario
+M008,Polymer Additive,Adhesive,SealTech Corp,roll,4.22,75544,5668,6,10/1/2025,Ontario
+M009,Bitumen Modifier,Fiberglass,FlexChem Industries,kg,1.15,70985,826,6,10/15/2025,Alberta
+M001,Oxidized Asphalt,Surface Coating,ColorRock Materials,roll,1.77,61553,1969,7,10/13/2025,Manitoba
+M004,Release Paper,Asphalt,FlexChem Industries,kg,6.64,64746,14981,9,10/5/2025,Ontario
+M010,Bitumen Modifier,Fiberglass,MatTech Canada,kg,0.8,65829,2715,7,10/16/2025,Manitoba
+M008,Crushed Limestone,Filler,PaperFlex Supply,kg,7.91,27198,16508,7,10/4/2025,Manitoba
+M005,Oxidized Asphalt,Packaging,ColorRock Materials,kg,10.69,54423,12121,10,10/8/2025,Alberta
+M003,Granules (Slate Grey),Additive,WrapPro Solutions,kg,10.83,10782,6055,9,10/19/2025,Manitoba
+M008,Fiberglass Mat,Adhesive,PaperFlex Supply,roll,10.13,48547,11539,10,10/2/2025,Ontario
+M001,Oxidized Asphalt,Adhesive,WrapPro Solutions,kg,11.2,69852,6680,8,10/13/2025,Ontario
+M010,Release Paper,Surface Coating,PetroPolymers Inc,roll,10.82,70531,9982,7,10/7/2025,Quebec
+M003,Adhesive Compound,Packaging,PetroPolymers Inc,roll,1.23,24919,1475,7,10/8/2025,Manitoba
+M003,Bitumen Modifier,Adhesive,PaperFlex Supply,kg,3.3,3271,11056,7,10/9/2025,Quebec
+M007,Fiberglass Mat,Filler,SealTech Corp,kg,6.69,60585,17396,8,10/12/2025,Alberta
+M005,Granules (Slate Grey),Adhesive,MatTech Canada,roll,0.73,74360,15727,10,10/6/2025,Quebec
+M007,Meta,Surface Coating,PaperFlex Supply,kg,1.98,57988,5617,10,10/2/2025,Manitoba
+M007,Crushed Limestone,Adhesive,PaperFlex Supply,roll,8.3,65170,1648,9,10/6/2025,Alberta
+M001,Bitumen Modifier,Asphalt,PetroPolymers Inc,roll,7.04,48101,687,6,10/19/2025,Manitoba
+M007,Crushed Limestone,Additive,PetroPolymers Inc,roll,0.87,20947,11566,8,10/1/2025,Ontario
+M009,Bitumen Modifier,Surface Coating,PetroPolymers Inc,kg,8.71,18934,7803,9,10/17/2025,Ontario
+M003,Bitumen Modifier,Asphalt,WrapPro Solutions,kg,8.05,19753,4333,8,10/18/2025,Manitoba
+M006,Packaging Film,Adhesive,WrapPro Solutions,roll,11.72,64940,12248,8,9/28/2025,Ontario
+M002,Adhesive Compound,Packaging,North PetroChem,kg,10.68,31157,2874,8,10/11/2025,Alberta
+M002,Bitumen Modifier,Asphalt,MatTech Canada,kg,6.68,67469,18842,9,10/3/2025,Quebec
+M006,Packaging Film,Surface Coating,ColorRock Materials,kg,8.3,13492,10357,4,9/30/2025,Ontario
+M009,Granules (Slate Grey),Additive,WrapPro Solutions,kg,11.38,72980,16115,5,10/14/2025,Quebec
+M005,Release Paper,Packaging,StoneWorks Ltd,roll,2.13,30054,9405,5,10/3/2025,Alberta
+M008,Polymer Additive,Adhesive,MatTech Canada,kg,7.52,25310,904,4,10/9/2025,Alberta
+M003,Granules (Slate Grey),Fiberglass,SealTech Corp,roll,5.13,78907,19130,9,10/8/2025,Manitoba
+M001,Adhesive Compound,Fiberglass,North PetroChem,roll,7.22,15522,18560,5,10/14/2025,Quebec
+M001,Polymer Additive,Surface Coating,WrapPro Solutions,roll,12.44,14946,13423,10,10/7/2025,Quebec
+M001,Meta,Packaging,SealTech Corp,kg,1.52,28899,8647,9,10/18/2025,Manitoba
+M010,Fiberglass Mat,Surface Coating,StoneWorks Ltd,kg,8.42,41269,4544,4,10/10/2025,Quebec
+M009,Oxidized Asphalt,Asphalt,FlexChem Industries,roll,8.2,21430,18907,4,10/12/2025,Quebec
+M001,Crushed Limestone,Fiberglass,MatTech Canada,kg,9.19,30392,1774,9,10/18/2025,Alberta
+M001,Adhesive Compound,Filler,ColorRock Materials,kg,6.67,62943,14951,5,10/19/2025,Alberta
+M003,Adhesive Compound,Asphalt,WrapPro Solutions,kg,5.47,10191,11648,6,9/29/2025,Quebec
+M009,Oxidized Asphalt,Asphalt,MatTech Canada,roll,7.61,46055,13167,10,10/10/2025,Quebec
+M005,Packaging Film,Additive,SealTech Corp,kg,4.86,4029,9901,10,10/9/2025,Quebec
+M004,Packaging Film,Filler,WrapPro Solutions,kg,5.25,4405,13483,6,10/15/2025,Quebec
+M007,Meta,Additive,PetroPolymers Inc,kg,1.52,29173,13846,7,10/15/2025,Ontario
+M006,Packaging Film,Packaging,PetroPolymers Inc,kg,11.09,21725,4360,8,10/13/2025,Quebec
+M001,Meta,Asphalt,PaperFlex Supply,roll,2.82,30915,2542,8,10/1/2025,Alberta
+M003,Release Paper,Packaging,ColorRock Materials,kg,7.48,2813,1570,8,9/30/2025,Manitoba
+M009,Adhesive Compound,Adhesive,PetroPolymers Inc,roll,3.4,59891,13059,7,9/30/2025,Manitoba
+M005,Oxidized Asphalt,Asphalt,FlexChem Industries,kg,11.66,46172,11350,8,9/30/2025,Ontario
+M009,Fiberglass Mat,Asphalt,WrapPro Solutions,kg,7.82,37789,1364,8,10/13/2025,Manitoba
+M003,Packaging Film,Filler,MatTech Canada,kg,1.02,67493,19113,5,9/29/2025,Manitoba
+M010,Oxidized Asphalt,Packaging,ColorRock Materials,roll,5.93,79257,17306,8,10/9/2025,Alberta
+M006,Release Paper,Adhesive,MatTech Canada,roll,7.63,37246,5781,5,10/7/2025,Quebec
+M010,Polymer Additive,Asphalt,MatTech Canada,kg,3.74,31441,797,8,10/2/2025,Quebec
+M002,Oxidized Asphalt,Filler,MatTech Canada,roll,7.38,9970,10976,5,10/1/2025,Ontario
+M002,Packaging Film,Additive,WrapPro Solutions,roll,4.41,58551,899,8,10/8/2025,Ontario
+M001,Granules (Slate Grey),Packaging,SealTech Corp,kg,1.68,18111,10030,4,10/7/2025,Manitoba
+M004,Bitumen Modifier,Packaging,StoneWorks Ltd,roll,11.58,66403,1746,4,10/9/2025,Quebec
+M004,Oxidized Asphalt,Surface Coating,FlexChem Industries,roll,9.84,8600,16030,9,10/19/2025,Quebec
+M007,Meta,Fiberglass,SealTech Corp,kg,10.7,62188,3485,4,9/29/2025,Quebec
+M007,Crushed Limestone,Surface Coating,North PetroChem,roll,3.03,11034,5982,8,10/9/2025,Alberta
+M006,Meta,Fiberglass,WrapPro Solutions,roll,5.61,33303,2229,4,9/28/2025,Quebec
+M008,Crushed Limestone,Filler,PetroPolymers Inc,kg,8.92,27732,16489,10,9/30/2025,Quebec
+M004,Polymer Additive,Additive,FlexChem Industries,roll,3.32,37986,19834,4,10/6/2025,Ontario
+M006,Crushed Limestone,Surface Coating,WrapPro Solutions,roll,0.96,56683,10522,9,10/15/2025,Quebec
+M001,Fiberglass Mat,Additive,PaperFlex Supply,roll,1.17,59639,14414,5,10/8/2025,Alberta
+M004,Fiberglass Mat,Filler,StoneWorks Ltd,roll,4.84,63601,15952,8,10/12/2025,Alberta
+M010,Bitumen Modifier,Additive,PetroPolymers Inc,kg,8.02,75127,2678,8,10/1/2025,Manitoba
+M007,Release Paper,Packaging,StoneWorks Ltd,roll,4.54,27300,16072,7,10/11/2025,Ontario
+M008,Meta,Adhesive,PetroPolymers Inc,roll,11.06,77326,3685,6,10/7/2025,Quebec
+M009,Adhesive Compound,Packaging,North PetroChem,kg,10.37,34732,4463,5,10/13/2025,Quebec
+M006,Polymer Additive,Fiberglass,PetroPolymers Inc,roll,2.31,75732,16392,5,9/30/2025,Ontario
+M008,Release Paper,Filler,FlexChem Industries,kg,2.48,5393,6260,6,10/18/2025,Quebec
+M002,Polymer Additive,Surface Coating,MatTech Canada,kg,7.24,47660,3151,6,10/16/2025,Manitoba
+M003,Packaging Film,Fiberglass,StoneWorks Ltd,roll,9.48,78750,17769,5,10/7/2025,Alberta
+M009,Packaging Film,Fiberglass,StoneWorks Ltd,roll,1.23,70206,13797,4,10/10/2025,Ontario
+M004,Meta,Fiberglass,North PetroChem,kg,12.36,29878,15263,7,10/5/2025,Alberta
+M009,Packaging Film,Asphalt,PetroPolymers Inc,kg,11.45,64842,14167,4,9/28/2025,Quebec
+M004,Release Paper,Surface Coating,ColorRock Materials,roll,9.8,66951,12653,6,10/18/2025,Ontario
+M004,Meta,Adhesive,FlexChem Industries,roll,1.66,40654,1674,7,10/3/2025,Quebec
+M007,Meta,Additive,SealTech Corp,kg,10.11,64063,7490,6,10/9/2025,Ontario
+M003,Meta,Asphalt,PetroPolymers Inc,roll,12.2,54261,19261,5,10/4/2025,Alberta
+M001,Crushed Limestone,Asphalt,SealTech Corp,roll,10.83,20217,19172,8,10/5/2025,Alberta
+M006,Granules (Slate Grey),Adhesive,PaperFlex Supply,kg,7.31,15538,8502,4,9/29/2025,Manitoba
+M007,Release Paper,Filler,FlexChem Industries,roll,5.14,8579,7572,4,10/1/2025,Alberta
+M005,Polymer Additive,Packaging,MatTech Canada,roll,9.8,74612,1149,10,10/5/2025,Manitoba
+M008,Meta,Packaging,MatTech Canada,roll,9.13,70960,10125,5,10/17/2025,Alberta
+M008,Polymer Additive,Packaging,ColorRock Materials,roll,2.63,74700,13034,10,10/5/2025,Manitoba
+M007,Release Paper,Additive,SealTech Corp,roll,5.02,11414,5393,4,10/12/2025,Quebec
+M006,Bitumen Modifier,Adhesive,ColorRock Materials,kg,11.65,13910,19392,7,10/19/2025,Quebec
+M001,Bitumen Modifier,Adhesive,PaperFlex Supply,roll,5.39,77319,14369,6,10/15/2025,Quebec
+M010,Adhesive Compound,Asphalt,North PetroChem,roll,5.26,7111,560,6,10/1/2025,Ontario
+M010,Release Paper,Surface Coating,PetroPolymers Inc,kg,12.32,5523,14105,9,10/8/2025,Alberta
+M007,Granules (Slate Grey),Packaging,North PetroChem,roll,6.35,73642,18458,5,10/18/2025,Alberta
+M007,Release Paper,Asphalt,North PetroChem,kg,6.85,36890,12056,9,10/19/2025,Manitoba
+M008,Adhesive Compound,Fiberglass,WrapPro Solutions,kg,9.22,69508,2158,9,10/10/2025,Alberta
+M002,Oxidized Asphalt,Packaging,StoneWorks Ltd,kg,9.87,47898,5435,8,10/9/2025,Quebec
+M008,Granules (Slate Grey),Adhesive,WrapPro Solutions,roll,11.87,41283,10982,7,10/3/2025,Manitoba
+M010,Granules (Slate Grey),Packaging,StoneWorks Ltd,roll,2.28,49565,14028,5,10/17/2025,Alberta
+M004,Meta,Packaging,StoneWorks Ltd,roll,4.86,52414,7974,6,10/18/2025,Quebec
+M001,Polymer Additive,Asphalt,PetroPolymers Inc,roll,10.52,22178,7175,6,10/14/2025,Quebec
+M006,Granules (Slate Grey),Packaging,MatTech Canada,roll,12.41,17282,12230,10,10/10/2025,Quebec
+M009,Granules (Slate Grey),Adhesive,SealTech Corp,roll,1.07,43724,18481,4,10/1/2025,Manitoba
+M002,Adhesive Compound,Adhesive,FlexChem Industries,roll,1.0,46359,11460,8,10/6/2025,Quebec
+M009,Release Paper,Adhesive,FlexChem Industries,kg,0.89,28085,7189,4,10/8/2025,Alberta
+M001,Granules (Slate Grey),Packaging,FlexChem Industries,roll,12.23,39997,10172,5,9/29/2025,Manitoba
+M009,Crushed Limestone,Surface Coating,WrapPro Solutions,roll,10.78,64693,14191,8,9/29/2025,Quebec
+M003,Packaging Film,Additive,PetroPolymers Inc,kg,3.37,31755,19536,5,10/11/2025,Quebec
+M002,Polymer Additive,Additive,North PetroChem,roll,0.75,47481,15306,7,10/2/2025,Quebec
+M008,Meta,Additive,StoneWorks Ltd,kg,4.97,33634,3120,8,10/16/2025,Manitoba
+M007,Release Paper,Packaging,PetroPolymers Inc,kg,2.73,10875,4826,9,9/28/2025,Ontario
+M010,Meta,Surface Coating,ColorRock Materials,kg,7.97,27817,14483,7,10/2/2025,Ontario
+M001,Polymer Additive,Packaging,PaperFlex Supply,kg,7.34,53578,17618,5,10/13/2025,Ontario
+M003,Crushed Limestone,Packaging,North PetroChem,kg,2.45,3249,14778,10,10/1/2025,Ontario
+M007,Adhesive Compound,Surface Coating,SealTech Corp,kg,5.37,28851,5197,7,10/11/2025,Ontario
+M004,Crushed Limestone,Adhesive,ColorRock Materials,kg,9.3,30193,2640,9,10/15/2025,Manitoba
+M009,Granules (Slate Grey),Filler,PaperFlex Supply,kg,2.24,21767,8186,4,9/30/2025,Ontario
+M004,Meta,Surface Coating,PetroPolymers Inc,roll,2.4,45482,3535,10,10/1/2025,Alberta
+M007,Adhesive Compound,Adhesive,SealTech Corp,kg,8.53,63891,369,5,10/8/2025,Ontario
+M002,Release Paper,Asphalt,WrapPro Solutions,kg,12.01,48248,7632,5,10/6/2025,Quebec
+M008,Oxidized Asphalt,Filler,SealTech Corp,roll,11.96,25547,2585,8,9/28/2025,Quebec
+M009,Granules (Slate Grey),Filler,PaperFlex Supply,roll,0.27,20703,18793,7,10/10/2025,Quebec
+M004,Granules (Slate Grey),Additive,North PetroChem,kg,10.32,32955,1950,7,10/19/2025,Ontario
+M009,Granules (Slate Grey),Asphalt,FlexChem Industries,kg,8.64,44669,12711,7,10/8/2025,Quebec
+M001,Packaging Film,Additive,SealTech Corp,roll,12.06,21357,12611,4,10/19/2025,Ontario
+M005,Adhesive Compound,Filler,North PetroChem,kg,4.67,29351,12453,9,10/16/2025,Manitoba
+M008,Crushed Limestone,Additive,SealTech Corp,roll,5.75,76926,6189,9,9/28/2025,Quebec
+M008,Polymer Additive,Filler,SealTech Corp,roll,6.16,32285,18502,4,10/14/2025,Alberta
+M006,Granules (Slate Grey),Asphalt,PaperFlex Supply,kg,10.95,55710,2841,4,10/8/2025,Quebec
+M007,Bitumen Modifier,Packaging,PetroPolymers Inc,roll,2.2,51256,19615,7,10/11/2025,Ontario
+M002,Crushed Limestone,Additive,MatTech Canada,kg,12.31,45729,11661,8,10/13/2025,Alberta
+M008,Fiberglass Mat,Adhesive,PetroPolymers Inc,roll,11.49,15037,13186,9,10/3/2025,Manitoba
+M009,Granules (Slate Grey),Adhesive,ColorRock Materials,roll,2.25,14111,8951,10,10/16/2025,Manitoba
+M007,Crushed Limestone,Filler,MatTech Canada,kg,0.1,73086,17799,5,10/19/2025,Manitoba
+M006,Adhesive Compound,Fiberglass,PaperFlex Supply,kg,11.42,4855,18077,7,10/1/2025,Quebec
+M009,Polymer Additive,Asphalt,PetroPolymers Inc,kg,6.44,62363,13260,8,10/4/2025,Manitoba
+M006,Meta,Filler,MatTech Canada,kg,10.01,28782,14862,6,10/11/2025,Alberta
+M003,Packaging Film,Asphalt,MatTech Canada,roll,6.48,23216,3346,4,10/3/2025,Ontario
+M007,Meta,Filler,FlexChem Industries,roll,10.7,16922,4738,6,10/1/2025,Manitoba
+M004,Crushed Limestone,Filler,StoneWorks Ltd,roll,4.54,16718,8612,10,10/9/2025,Ontario
+M004,Adhesive Compound,Additive,PaperFlex Supply,kg,11.4,46190,7178,6,10/4/2025,Ontario
+M002,Fiberglass Mat,Fiberglass,WrapPro Solutions,kg,3.54,71029,8003,4,10/4/2025,Ontario
+M007,Polymer Additive,Filler,StoneWorks Ltd,kg,10.8,11440,5444,8,9/29/2025,Alberta
+M006,Adhesive Compound,Adhesive,ColorRock Materials,kg,2.18,18509,17137,10,10/15/2025,Manitoba
+M003,Bitumen Modifier,Asphalt,StoneWorks Ltd,kg,7.33,33068,8891,6,10/12/2025,Quebec
+M003,Meta,Fiberglass,North PetroChem,roll,0.96,56735,13292,8,10/3/2025,Manitoba
+M003,Granules (Slate Grey),Packaging,North PetroChem,roll,9.87,33392,18359,8,10/15/2025,Ontario
+M010,Packaging Film,Asphalt,PetroPolymers Inc,roll,8.77,33292,6777,10,10/6/2025,Quebec
+M001,Granules (Slate Grey),Adhesive,MatTech Canada,kg,0.47,17297,10057,10,10/10/2025,Manitoba
+M006,Bitumen Modifier,Asphalt,North PetroChem,kg,7.94,11109,11496,10,10/18/2025,Manitoba
+M003,Fiberglass Mat,Additive,WrapPro Solutions,roll,7.95,29973,11636,4,10/8/2025,Ontario
+M005,Fiberglass Mat,Packaging,WrapPro Solutions,roll,3.49,61699,8099,10,10/12/2025,Alberta
+M007,Release Paper,Filler,North PetroChem,roll,6.68,8145,13650,5,10/2/2025,Manitoba
+M002,Release Paper,Additive,MatTech Canada,roll,7.83,20520,489,5,10/6/2025,Manitoba
+M006,Adhesive Compound,Fiberglass,MatTech Canada,roll,9.15,9790,7728,4,10/2/2025,Manitoba
+M005,Meta,Asphalt,FlexChem Industries,roll,0.06,39420,12548,8,10/9/2025,Alberta
+M008,Oxidized Asphalt,Additive,PaperFlex Supply,kg,7.72,9087,18187,8,10/2/2025,Ontario
+M010,Packaging Film,Adhesive,SealTech Corp,kg,10.86,44981,3722,8,10/10/2025,Manitoba
+M007,Polymer Additive,Filler,PetroPolymers Inc,kg,3.68,30809,15127,8,10/3/2025,Quebec
+M006,Meta,Fiberglass,MatTech Canada,roll,5.47,59446,4591,4,10/9/2025,Quebec
+M001,Packaging Film,Packaging,North PetroChem,kg,4.38,23638,18544,8,10/10/2025,Manitoba
+M005,Granules (Slate Grey),Filler,PaperFlex Supply,kg,6.15,50362,5421,9,10/2/2025,Ontario
+M003,Meta,Packaging,North PetroChem,roll,0.38,28304,14808,7,10/13/2025,Ontario
+M002,Oxidized Asphalt,Surface Coating,WrapPro Solutions,kg,4.83,47960,12964,9,10/2/2025,Alberta
+M002,Release Paper,Asphalt,StoneWorks Ltd,roll,9.29,20550,12808,4,9/28/2025,Manitoba
+M001,Fiberglass Mat,Additive,PaperFlex Supply,roll,10.68,49072,6249,9,10/3/2025,Quebec
+M002,Bitumen Modifier,Asphalt,WrapPro Solutions,kg,9.67,14255,4091,6,9/29/2025,Ontario
+M009,Bitumen Modifier,Fiberglass,StoneWorks Ltd,roll,3.75,46076,3410,4,10/14/2025,Quebec
+M007,Fiberglass Mat,Filler,MatTech Canada,kg,5.44,59412,10840,4,9/30/2025,Ontario
+M002,Bitumen Modifier,Adhesive,ColorRock Materials,kg,7.09,18176,12325,9,10/2/2025,Manitoba
+M002,Adhesive Compound,Additive,FlexChem Industries,kg,11.03,69603,17400,4,10/2/2025,Ontario
+M001,Release Paper,Surface Coating,WrapPro Solutions,roll,1.88,61565,6656,6,10/9/2025,Quebec
+M009,Meta,Additive,PaperFlex Supply,roll,8.4,28386,7197,5,10/12/2025,Quebec
+M002,Bitumen Modifier,Asphalt,WrapPro Solutions,roll,5.72,61625,3767,9,10/16/2025,Quebec
+M010,Granules (Slate Grey),Filler,WrapPro Solutions,roll,3.12,74021,9423,8,10/6/2025,Quebec
+M007,Bitumen Modifier,Packaging,PetroPolymers Inc,roll,8.31,34817,3406,7,10/6/2025,Alberta
+M010,Bitumen Modifier,Filler,North PetroChem,roll,3.23,54524,17843,8,10/19/2025,Quebec
+M004,Crushed Limestone,Packaging,PaperFlex Supply,roll,4.03,31756,16629,9,10/9/2025,Manitoba
+M009,Bitumen Modifier,Asphalt,StoneWorks Ltd,roll,3.78,77180,3574,4,10/8/2025,Ontario
+M005,Packaging Film,Asphalt,StoneWorks Ltd,roll,7.8,24658,15897,8,10/1/2025,Ontario
+M006,Fiberglass Mat,Packaging,North PetroChem,kg,3.76,41035,5585,8,10/15/2025,Ontario
+M006,Packaging Film,Surface Coating,PaperFlex Supply,roll,8.0,6216,17030,5,10/15/2025,Quebec
+M002,Oxidized Asphalt,Surface Coating,PaperFlex Supply,roll,6.25,23187,2267,8,10/4/2025,Quebec
+M003,Crushed Limestone,Surface Coating,MatTech Canada,kg,11.94,78798,11509,7,10/12/2025,Alberta
+M001,Bitumen Modifier,Additive,ColorRock Materials,kg,0.99,12960,18323,4,10/14/2025,Ontario
+M001,Release Paper,Fiberglass,PetroPolymers Inc,roll,8.27,54479,6813,10,10/10/2025,Manitoba
+M006,Fiberglass Mat,Additive,StoneWorks Ltd,roll,2.27,67306,11302,7,10/15/2025,Alberta
+M007,Bitumen Modifier,Filler,ColorRock Materials,kg,7.55,58868,6564,5,10/9/2025,Ontario
+M010,Granules (Slate Grey),Packaging,PaperFlex Supply,kg,4.09,3444,15935,7,9/30/2025,Ontario
+M005,Packaging Film,Fiberglass,North PetroChem,kg,4.81,65313,14717,10,10/14/2025,Ontario
+M008,Granules (Slate Grey),Filler,FlexChem Industries,roll,6.17,9093,6672,10,10/5/2025,Alberta
+M003,Polymer Additive,Surface Coating,PetroPolymers Inc,kg,1.8,78650,15270,10,9/28/2025,Quebec
+M002,Oxidized Asphalt,Surface Coating,FlexChem Industries,kg,8.51,55629,3582,5,10/4/2025,Ontario
+M002,Crushed Limestone,Adhesive,FlexChem Industries,roll,1.91,60917,5341,7,10/11/2025,Quebec
+M004,Adhesive Compound,Filler,StoneWorks Ltd,kg,9.2,5686,607,5,10/5/2025,Ontario
+M009,Meta,Additive,WrapPro Solutions,kg,6.55,25608,5067,5,10/14/2025,Manitoba
+M001,Fiberglass Mat,Packaging,WrapPro Solutions,kg,5.33,31914,19231,7,10/4/2025,Alberta
+M003,Meta,Asphalt,PetroPolymers Inc,roll,9.59,70337,19634,4,10/12/2025,Ontario
+M009,Bitumen Modifier,Asphalt,SealTech Corp,kg,5.51,70288,7428,6,10/14/2025,Manitoba
+M008,Bitumen Modifier,Additive,ColorRock Materials,roll,9.54,56313,5321,10,10/4/2025,Ontario
+M004,Crushed Limestone,Fiberglass,SealTech Corp,kg,4.48,34508,17821,10,10/12/2025,Quebec
+M007,Fiberglass Mat,Surface Coating,MatTech Canada,roll,9.53,8378,16556,5,10/11/2025,Manitoba
+M008,Fiberglass Mat,Fiberglass,PetroPolymers Inc,roll,0.72,37981,12537,4,10/14/2025,Quebec
+M005,Packaging Film,Filler,FlexChem Industries,kg,1.41,75121,10209,10,10/5/2025,Ontario
+M003,Meta,Filler,StoneWorks Ltd,roll,12.01,16074,1551,9,10/7/2025,Alberta
+M001,Meta,Adhesive,PetroPolymers Inc,kg,6.53,74024,1482,5,9/30/2025,Quebec
+M005,Fiberglass Mat,Filler,PaperFlex Supply,roll,3.58,7286,18526,6,10/12/2025,Quebec
+M001,Polymer Additive,Packaging,PetroPolymers Inc,roll,0.3,59346,918,10,10/8/2025,Ontario
+M004,Bitumen Modifier,Asphalt,StoneWorks Ltd,roll,2.56,72513,17969,10,9/30/2025,Ontario
+M006,Polymer Additive,Surface Coating,SealTech Corp,roll,9.92,40341,12124,4,10/1/2025,Ontario
+M008,Fiberglass Mat,Filler,FlexChem Industries,roll,12.19,60736,2064,7,10/13/2025,Quebec
+M007,Fiberglass Mat,Filler,StoneWorks Ltd,kg,11.72,67819,12830,6,10/8/2025,Quebec
+M009,Crushed Limestone,Additive,FlexChem Industries,roll,2.13,77604,6034,9,9/30/2025,Manitoba
+M010,Bitumen Modifier,Adhesive,North PetroChem,kg,1.21,38031,4335,10,10/13/2025,Manitoba
+M004,Adhesive Compound,Filler,FlexChem Industries,roll,11.33,64883,16702,8,10/7/2025,Quebec
+M006,Polymer Additive,Asphalt,StoneWorks Ltd,kg,7.04,66510,3231,9,10/16/2025,Manitoba
+M008,Polymer Additive,Adhesive,StoneWorks Ltd,kg,6.89,73386,12497,4,10/2/2025,Quebec
+M005,Adhesive Compound,Surface Coating,PetroPolymers Inc,roll,7.17,17539,9734,10,9/29/2025,Manitoba
+M010,Adhesive Compound,Asphalt,FlexChem Industries,roll,6.01,12710,2444,9,10/4/2025,Quebec
+M001,Packaging Film,Adhesive,North PetroChem,roll,7.26,32397,15826,6,10/8/2025,Quebec
+M003,Fiberglass Mat,Additive,WrapPro Solutions,roll,10.84,28028,1611,8,10/10/2025,Ontario
+M008,Crushed Limestone,Filler,MatTech Canada,roll,6.27,76528,18214,7,10/17/2025,Quebec
+M006,Fiberglass Mat,Surface Coating,North PetroChem,kg,7.0,15072,2355,8,9/30/2025,Ontario
+M006,Oxidized Asphalt,Surface Coating,MatTech Canada,kg,6.02,9687,18046,7,10/14/2025,Quebec
+M009,Granules (Slate Grey),Packaging,ColorRock Materials,roll,2.68,27277,17244,4,10/3/2025,Alberta
+M002,Granules (Slate Grey),Asphalt,North PetroChem,roll,3.17,53362,11425,10,10/10/2025,Alberta
+M002,Adhesive Compound,Additive,PaperFlex Supply,kg,2.6,64145,11825,6,10/2/2025,Manitoba
+M010,Fiberglass Mat,Surface Coating,StoneWorks Ltd,roll,0.83,59154,11327,7,10/16/2025,Alberta
+M001,Adhesive Compound,Adhesive,SealTech Corp,kg,4.06,71636,14075,4,10/6/2025,Manitoba
+M002,Fiberglass Mat,Surface Coating,WrapPro Solutions,roll,2.65,61175,5847,7,9/28/2025,Alberta
+M001,Packaging Film,Packaging,StoneWorks Ltd,roll,0.87,12563,8512,9,10/7/2025,Ontario
+M007,Meta,Surface Coating,WrapPro Solutions,roll,10.64,19269,10639,8,10/19/2025,Manitoba
+M002,Crushed Limestone,Surface Coating,MatTech Canada,kg,2.07,63663,7872,7,9/28/2025,Ontario
+M004,Meta,Surface Coating,PaperFlex Supply,kg,1.7,65701,10482,6,10/16/2025,Manitoba
+M006,Packaging Film,Fiberglass,StoneWorks Ltd,roll,3.18,8412,18760,5,10/9/2025,Manitoba
+M010,Granules (Slate Grey),Adhesive,WrapPro Solutions,kg,7.87,7114,18284,9,10/1/2025,Alberta
+M005,Fiberglass Mat,Filler,FlexChem Industries,kg,2.84,44396,8848,6,10/13/2025,Quebec
+M003,Bitumen Modifier,Filler,SealTech Corp,kg,8.43,63640,16128,7,10/17/2025,Alberta
+M006,Packaging Film,Packaging,SealTech Corp,kg,9.41,52478,1548,6,10/12/2025,Alberta
+M002,Release Paper,Packaging,WrapPro Solutions,roll,3.19,10464,11913,10,10/1/2025,Manitoba
+M007,Packaging Film,Filler,ColorRock Materials,roll,8.87,12402,3053,8,9/28/2025,Ontario
+M006,Crushed Limestone,Fiberglass,SealTech Corp,roll,9.06,50630,11762,8,10/15/2025,Ontario
+M008,Polymer Additive,Surface Coating,WrapPro Solutions,kg,12.34,71212,2991,5,10/8/2025,Ontario
+M004,Adhesive Compound,Surface Coating,StoneWorks Ltd,kg,5.72,75423,12334,9,10/19/2025,Quebec
+M001,Granules (Slate Grey),Surface Coating,SealTech Corp,kg,7.8,57190,8795,9,10/11/2025,Quebec
+M009,Meta,Additive,ColorRock Materials,roll,5.64,58942,2971,4,10/2/2025,Quebec
+M003,Adhesive Compound,Filler,FlexChem Industries,roll,1.91,29006,7035,7,10/7/2025,Manitoba
+M007,Packaging Film,Adhesive,MatTech Canada,kg,1.17,51835,6115,9,10/15/2025,Manitoba
+M004,Bitumen Modifier,Asphalt,ColorRock Materials,kg,2.86,18828,14437,8,10/3/2025,Manitoba
+M006,Packaging Film,Packaging,ColorRock Materials,roll,8.74,55237,17395,6,10/6/2025,Quebec
+M005,Polymer Additive,Asphalt,FlexChem Industries,roll,1.08,79813,19223,6,10/14/2025,Alberta
+M002,Bitumen Modifier,Surface Coating,FlexChem Industries,roll,1.32,70256,7907,5,10/11/2025,Ontario
+M003,Adhesive Compound,Surface Coating,ColorRock Materials,kg,7.3,79023,6465,4,10/3/2025,Alberta
+M002,Adhesive Compound,Fiberglass,North PetroChem,kg,12.34,36978,333,10,10/12/2025,Manitoba
+M001,Release Paper,Surface Coating,North PetroChem,kg,1.87,31014,6717,7,10/12/2025,Manitoba
+M004,Oxidized Asphalt,Packaging,StoneWorks Ltd,roll,5.05,38208,19012,5,10/6/2025,Ontario
+M008,Oxidized Asphalt,Filler,SealTech Corp,roll,1.1,77084,3315,6,10/19/2025,Alberta
+M005,Meta,Adhesive,StoneWorks Ltd,roll,6.42,60504,8015,6,10/11/2025,Manitoba
+M004,Bitumen Modifier,Filler,MatTech Canada,kg,10.44,65981,17632,9,10/6/2025,Alberta
+M004,Bitumen Modifier,Surface Coating,PetroPolymers Inc,kg,1.33,45616,15653,4,10/10/2025,Quebec
+M001,Crushed Limestone,Filler,SealTech Corp,roll,12.08,26131,7092,5,10/1/2025,Alberta
+M009,Oxidized Asphalt,Packaging,North PetroChem,kg,4.98,38199,15450,4,10/6/2025,Ontario
+M006,Meta,Surface Coating,North PetroChem,roll,10.88,36583,1393,7,10/12/2025,Alberta
+M002,Adhesive Compound,Packaging,North PetroChem,roll,9.8,49374,6024,10,10/3/2025,Quebec
+M003,Meta,Asphalt,SealTech Corp,kg,2.67,61351,19020,5,10/8/2025,Alberta
+M004,Release Paper,Filler,PaperFlex Supply,roll,5.42,57283,19030,4,10/2/2025,Alberta
+M004,Oxidized Asphalt,Adhesive,PetroPolymers Inc,roll,12.07,12767,14070,5,10/14/2025,Quebec
+M003,Adhesive Compound,Packaging,SealTech Corp,kg,7.99,70455,9790,10,10/18/2025,Manitoba
+M003,Oxidized Asphalt,Fiberglass,SealTech Corp,roll,1.76,20028,5057,8,10/17/2025,Ontario
+M007,Oxidized Asphalt,Asphalt,PaperFlex Supply,roll,7.75,32401,10311,4,10/13/2025,Quebec
+M010,Bitumen Modifier,Adhesive,PetroPolymers Inc,kg,4.8,13150,7917,10,10/17/2025,Alberta
+M002,Packaging Film,Additive,PetroPolymers Inc,kg,1.05,52397,14515,5,10/5/2025,Ontario
+M008,Packaging Film,Asphalt,ColorRock Materials,kg,11.93,67887,14694,5,9/29/2025,Quebec
+M006,Granules (Slate Grey),Filler,PetroPolymers Inc,roll,6.0,19184,2354,6,10/17/2025,Alberta
+M008,Release Paper,Fiberglass,WrapPro Solutions,kg,5.68,10691,2331,5,10/4/2025,Quebec
+M010,Adhesive Compound,Additive,StoneWorks Ltd,roll,1.78,75269,10135,6,10/19/2025,Alberta
+M001,Meta,Packaging,StoneWorks Ltd,kg,8.35,4230,3858,10,9/28/2025,Ontario
+M001,Packaging Film,Asphalt,North PetroChem,roll,6.56,22019,14495,9,10/4/2025,Alberta
+M009,Meta,Filler,WrapPro Solutions,roll,8.61,27162,6117,4,10/19/2025,Ontario
+M008,Granules (Slate Grey),Filler,StoneWorks Ltd,roll,3.12,14821,13865,9,10/8/2025,Alberta
+M010,Crushed Limestone,Packaging,SealTech Corp,kg,7.82,72881,4175,8,10/10/2025,Manitoba
+M005,Granules (Slate Grey),Asphalt,MatTech Canada,kg,1.23,64072,18932,8,10/1/2025,Alberta
+M005,Bitumen Modifier,Adhesive,PaperFlex Supply,roll,4.78,44935,8844,9,10/3/2025,Quebec
+M001,Fiberglass Mat,Surface Coating,PetroPolymers Inc,roll,3.11,34845,7753,5,10/13/2025,Quebec
+M002,Oxidized Asphalt,Packaging,StoneWorks Ltd,roll,7.52,5351,16462,9,10/5/2025,Ontario
+M009,Fiberglass Mat,Fiberglass,ColorRock Materials,kg,6.89,40839,4625,10,9/30/2025,Quebec
+M007,Crushed Limestone,Filler,PetroPolymers Inc,kg,10.09,40096,5353,5,10/13/2025,Ontario
+M010,Bitumen Modifier,Filler,ColorRock Materials,kg,5.25,64611,4095,8,10/5/2025,Ontario
+M007,Polymer Additive,Filler,FlexChem Industries,kg,11.73,28861,18163,8,10/1/2025,Ontario
+M005,Meta,Additive,North PetroChem,roll,3.8,68202,2557,10,10/4/2025,Quebec
+M005,Oxidized Asphalt,Additive,SealTech Corp,kg,6.32,71613,13936,6,10/10/2025,Quebec
+M002,Bitumen Modifier,Additive,PetroPolymers Inc,kg,5.99,78134,16680,6,10/3/2025,Quebec
+M010,Oxidized Asphalt,Packaging,North PetroChem,roll,8.24,3014,15441,10,10/2/2025,Ontario
+M009,Meta,Fiberglass,FlexChem Industries,kg,8.26,23427,4895,10,10/18/2025,Manitoba
+M004,Fiberglass Mat,Surface Coating,WrapPro Solutions,kg,6.8,69370,13262,10,9/30/2025,Ontario
+M009,Polymer Additive,Additive,StoneWorks Ltd,kg,7.34,14533,12998,7,10/1/2025,Manitoba
+M001,Fiberglass Mat,Additive,MatTech Canada,kg,1.77,50959,17209,4,10/17/2025,Ontario
+M008,Crushed Limestone,Additive,StoneWorks Ltd,roll,7.45,59007,6649,10,10/13/2025,Manitoba
+M005,Adhesive Compound,Fiberglass,ColorRock Materials,roll,8.08,65983,2153,8,10/10/2025,Manitoba
+M010,Crushed Limestone,Packaging,WrapPro Solutions,roll,4.49,25631,14249,7,10/4/2025,Ontario
+M007,Fiberglass Mat,Filler,ColorRock Materials,kg,3.62,51428,10215,5,10/16/2025,Ontario
+M001,Adhesive Compound,Filler,MatTech Canada,roll,7.28,48787,4958,7,9/29/2025,Quebec
+M002,Polymer Additive,Filler,WrapPro Solutions,kg,10.42,26425,17547,5,10/4/2025,Alberta
+M002,Release Paper,Surface Coating,PetroPolymers Inc,roll,1.38,16255,4769,7,10/5/2025,Quebec
+M002,Crushed Limestone,Surface Coating,North PetroChem,kg,0.77,24067,12637,6,9/29/2025,Manitoba
+M006,Packaging Film,Surface Coating,WrapPro Solutions,roll,2.37,42726,8430,5,10/12/2025,Quebec
+M004,Polymer Additive,Adhesive,ColorRock Materials,roll,10.67,16575,15971,9,10/4/2025,Ontario
+M004,Meta,Surface Coating,PaperFlex Supply,roll,11.97,24463,17605,6,10/10/2025,Quebec
+M008,Bitumen Modifier,Additive,North PetroChem,roll,6.02,23622,3213,7,10/4/2025,Quebec
+M001,Packaging Film,Additive,FlexChem Industries,kg,12.34,73314,17980,10,10/8/2025,Quebec
+M003,Release Paper,Asphalt,ColorRock Materials,kg,2.32,75094,11977,7,9/29/2025,Quebec
+M004,Release Paper,Asphalt,MatTech Canada,roll,5.35,13594,9368,9,9/30/2025,Manitoba
+M009,Granules (Slate Grey),Filler,MatTech Canada,kg,0.8,22635,19113,7,10/18/2025,Alberta
+M002,Bitumen Modifier,Asphalt,FlexChem Industries,kg,10.24,78839,19323,5,10/5/2025,Ontario
+M008,Release Paper,Fiberglass,PetroPolymers Inc,roll,8.48,24352,18720,7,10/17/2025,Manitoba
+M003,Polymer Additive,Surface Coating,PaperFlex Supply,roll,8.18,69181,3787,10,9/30/2025,Ontario
+M008,Crushed Limestone,Adhesive,WrapPro Solutions,roll,1.66,36776,14374,8,10/15/2025,Alberta
+M006,Granules (Slate Grey),Additive,ColorRock Materials,roll,8.41,57204,11870,5,10/1/2025,Alberta
+M004,Packaging Film,Packaging,PetroPolymers Inc,kg,2.87,23959,12433,10,10/15/2025,Quebec
+M001,Release Paper,Filler,PaperFlex Supply,roll,10.0,3303,8746,7,10/2/2025,Alberta
+M009,Adhesive Compound,Additive,PetroPolymers Inc,kg,5.58,78464,6851,6,9/28/2025,Alberta
+M003,Polymer Additive,Surface Coating,FlexChem Industries,roll,2.93,76147,8544,5,10/7/2025,Alberta
+M005,Fiberglass Mat,Packaging,PaperFlex Supply,kg,9.22,2681,8822,10,10/17/2025,Alberta
+M007,Polymer Additive,Additive,StoneWorks Ltd,kg,0.24,30770,5761,10,9/29/2025,Quebec
+M010,Packaging Film,Adhesive,StoneWorks Ltd,roll,7.79,25262,2000,6,10/17/2025,Quebec
+M006,Polymer Additive,Filler,PaperFlex Supply,roll,4.75,56606,8946,4,10/19/2025,Manitoba
+M010,Polymer Additive,Filler,MatTech Canada,kg,11.2,3130,13891,9,10/8/2025,Manitoba
+M005,Packaging Film,Filler,MatTech Canada,roll,9.81,21740,18977,10,10/18/2025,Alberta
+M010,Packaging Film,Asphalt,SealTech Corp,kg,5.64,59790,15778,10,10/16/2025,Ontario
+M001,Fiberglass Mat,Additive,StoneWorks Ltd,roll,3.31,63736,338,5,10/18/2025,Ontario
+M003,Fiberglass Mat,Surface Coating,PetroPolymers Inc,kg,3.57,71566,603,6,10/3/2025,Quebec
+M009,Meta,Adhesive,PaperFlex Supply,roll,3.05,54237,13572,6,10/13/2025,Manitoba
+M005,Packaging Film,Additive,PetroPolymers Inc,kg,6.12,73218,15669,5,10/13/2025,Manitoba
+M008,Release Paper,Additive,ColorRock Materials,roll,8.08,16241,12116,5,10/16/2025,Manitoba
+M006,Oxidized Asphalt,Surface Coating,PetroPolymers Inc,roll,4.75,17934,3802,7,10/10/2025,Ontario
+M010,Meta,Packaging,FlexChem Industries,roll,9.41,13079,18575,8,9/28/2025,Alberta
+M009,Crushed Limestone,Asphalt,North PetroChem,roll,0.92,71526,11365,8,10/13/2025,Quebec
+M010,Bitumen Modifier,Additive,StoneWorks Ltd,kg,4.51,29917,12638,4,9/28/2025,Ontario
+M004,Oxidized Asphalt,Additive,PaperFlex Supply,kg,4.16,16333,1844,6,10/14/2025,Alberta
+M010,Oxidized Asphalt,Filler,MatTech Canada,kg,1.78,74312,15754,10,10/15/2025,Manitoba
+M003,Crushed Limestone,Packaging,ColorRock Materials,roll,7.51,60812,7345,10,10/11/2025,Manitoba
+M004,Polymer Additive,Surface Coating,MatTech Canada,roll,3.61,62190,11885,7,9/29/2025,Manitoba
+M001,Oxidized Asphalt,Adhesive,PetroPolymers Inc,kg,4.24,12576,14228,9,10/12/2025,Alberta
+M005,Fiberglass Mat,Surface Coating,WrapPro Solutions,kg,8.42,69007,17887,7,9/29/2025,Alberta
+M009,Adhesive Compound,Surface Coating,FlexChem Industries,kg,6.38,74069,3388,4,10/8/2025,Manitoba
+M003,Bitumen Modifier,Surface Coating,SealTech Corp,roll,5.21,33328,15981,6,10/2/2025,Manitoba
+M007,Packaging Film,Filler,PaperFlex Supply,kg,3.17,28263,6439,4,10/4/2025,Quebec
+M009,Oxidized Asphalt,Packaging,PetroPolymers Inc,kg,7.28,18193,4798,6,10/18/2025,Quebec
+M004,Adhesive Compound,Packaging,FlexChem Industries,kg,5.65,60362,1479,10,10/8/2025,Manitoba
+M003,Polymer Additive,Adhesive,FlexChem Industries,roll,7.15,43890,4098,8,10/18/2025,Ontario
+M004,Meta,Surface Coating,FlexChem Industries,roll,3.23,39649,12953,4,10/8/2025,Alberta
+M004,Oxidized Asphalt,Surface Coating,FlexChem Industries,kg,8.96,40385,13632,9,10/16/2025,Quebec
+M007,Adhesive Compound,Additive,PetroPolymers Inc,kg,6.01,78907,17405,6,10/8/2025,Alberta
+M005,Crushed Limestone,Packaging,MatTech Canada,kg,5.78,45307,19703,4,10/16/2025,Alberta
+M009,Bitumen Modifier,Asphalt,FlexChem Industries,roll,8.86,63115,13873,4,10/4/2025,Alberta
+M006,Polymer Additive,Filler,SealTech Corp,kg,4.51,37816,13424,5,9/29/2025,Manitoba
+M004,Meta,Additive,WrapPro Solutions,kg,2.41,34601,9839,9,10/2/2025,Alberta
+M002,Granules (Slate Grey),Filler,ColorRock Materials,roll,5.01,76235,19661,10,10/10/2025,Quebec
+M007,Release Paper,Filler,PetroPolymers Inc,kg,6.65,19399,15763,10,10/17/2025,Alberta
+M006,Release Paper,Surface Coating,SealTech Corp,roll,10.1,15906,18599,6,10/19/2025,Alberta
+M001,Packaging Film,Packaging,PetroPolymers Inc,kg,5.41,54743,11642,4,10/2/2025,Manitoba
+M001,Fiberglass Mat,Filler,PaperFlex Supply,roll,9.09,65040,11826,5,10/19/2025,Manitoba
+M001,Crushed Limestone,Adhesive,MatTech Canada,roll,5.15,76699,9062,10,10/17/2025,Quebec
+M002,Granules (Slate Grey),Packaging,FlexChem Industries,kg,0.1,3801,10805,7,10/14/2025,Manitoba
+M005,Oxidized Asphalt,Fiberglass,North PetroChem,roll,9.19,71956,6885,5,10/10/2025,Alberta
+M005,Meta,Surface Coating,MatTech Canada,roll,9.2,61618,19655,5,9/28/2025,Ontario
+M009,Oxidized Asphalt,Packaging,PaperFlex Supply,kg,3.24,44568,7541,10,10/8/2025,Manitoba
+M010,Meta,Fiberglass,FlexChem Industries,roll,12.22,36614,15084,7,10/7/2025,Ontario
+M002,Polymer Additive,Additive,North PetroChem,roll,0.1,8065,3804,6,9/29/2025,Quebec
+M005,Meta,Surface Coating,ColorRock Materials,roll,7.09,4416,5164,8,10/11/2025,Alberta
+M002,Polymer Additive,Packaging,StoneWorks Ltd,kg,9.71,51720,962,7,10/16/2025,Alberta
+M003,Crushed Limestone,Additive,StoneWorks Ltd,kg,11.24,21202,18189,10,10/1/2025,Quebec
+M005,Crushed Limestone,Additive,WrapPro Solutions,roll,6.88,40200,18468,9,10/10/2025,Alberta
+M004,Bitumen Modifier,Adhesive,MatTech Canada,roll,9.71,18983,8544,7,10/9/2025,Ontario
+M007,Adhesive Compound,Fiberglass,MatTech Canada,roll,8.51,47529,9120,4,10/4/2025,Ontario
+M006,Fiberglass Mat,Fiberglass,North PetroChem,roll,5.75,59241,16837,7,9/28/2025,Ontario
+M001,Granules (Slate Grey),Filler,PaperFlex Supply,kg,10.85,38412,1747,9,10/5/2025,Alberta
+M002,Meta,Fiberglass,MatTech Canada,kg,6.53,54065,9922,6,10/5/2025,Alberta
+M007,Meta,Adhesive,StoneWorks Ltd,roll,2.62,49439,10201,8,10/7/2025,Alberta
+M001,Adhesive Compound,Fiberglass,WrapPro Solutions,roll,4.65,20176,2115,5,10/8/2025,Manitoba
+M005,Oxidized Asphalt,Additive,PaperFlex Supply,kg,7.62,10237,8098,10,10/19/2025,Quebec
+M004,Adhesive Compound,Asphalt,SealTech Corp,roll,8.51,49298,7748,10,9/29/2025,Ontario
+M001,Granules (Slate Grey),Filler,WrapPro Solutions,kg,10.78,75752,8857,6,10/15/2025,Alberta
+M009,Release Paper,Asphalt,ColorRock Materials,roll,9.23,32171,4326,7,10/15/2025,Alberta
+M008,Oxidized Asphalt,Fiberglass,SealTech Corp,kg,9.16,2821,2422,7,10/4/2025,Manitoba
+M003,Adhesive Compound,Packaging,MatTech Canada,roll,8.08,3358,12355,4,10/11/2025,Quebec
+M001,Oxidized Asphalt,Surface Coating,MatTech Canada,kg,1.57,39258,18902,7,10/8/2025,Quebec
+M004,Meta,Fiberglass,StoneWorks Ltd,kg,2.08,32327,755,8,10/18/2025,Manitoba
+M007,Packaging Film,Additive,North PetroChem,kg,2.34,57349,17366,10,10/17/2025,Quebec
+M002,Bitumen Modifier,Surface Coating,FlexChem Industries,kg,3.04,16077,2062,10,9/29/2025,Quebec
+M008,Bitumen Modifier,Asphalt,FlexChem Industries,kg,4.97,31308,9346,5,10/15/2025,Manitoba
+M009,Packaging Film,Additive,PaperFlex Supply,roll,9.11,22193,19506,9,10/8/2025,Ontario
+M008,Meta,Filler,ColorRock Materials,roll,9.19,13047,12154,8,10/9/2025,Ontario
+M005,Release Paper,Surface Coating,PaperFlex Supply,kg,2.71,5141,2367,6,10/19/2025,Ontario
+M004,Crushed Limestone,Asphalt,North PetroChem,roll,8.44,30446,5391,8,10/2/2025,Alberta
+M002,Fiberglass Mat,Fiberglass,StoneWorks Ltd,roll,6.1,66147,18355,5,10/8/2025,Alberta
+M009,Meta,Filler,North PetroChem,roll,8.38,74806,3780,8,10/6/2025,Alberta
+M007,Bitumen Modifier,Filler,PaperFlex Supply,kg,2.2,20623,6852,4,10/18/2025,Ontario
+M007,Granules (Slate Grey),Additive,WrapPro Solutions,kg,11.7,32942,12789,6,10/16/2025,Alberta
+M004,Adhesive Compound,Fiberglass,FlexChem Industries,kg,4.16,9766,4470,7,10/13/2025,Manitoba
+M002,Granules (Slate Grey),Asphalt,WrapPro Solutions,kg,7.38,4410,13932,9,10/10/2025,Ontario
+M003,Polymer Additive,Asphalt,FlexChem Industries,kg,0.67,43631,7732,6,10/10/2025,Manitoba
+M007,Bitumen Modifier,Filler,StoneWorks Ltd,roll,0.71,25730,6662,7,10/7/2025,Ontario
+M004,Polymer Additive,Surface Coating,ColorRock Materials,roll,0.46,36477,10406,6,10/10/2025,Quebec
+M010,Packaging Film,Fiberglass,PaperFlex Supply,kg,0.52,75251,19821,4,10/4/2025,Manitoba
+M006,Packaging Film,Filler,PaperFlex Supply,roll,7.54,2659,2003,5,10/10/2025,Alberta
+M010,Oxidized Asphalt,Additive,FlexChem Industries,roll,12.21,28939,12039,8,10/3/2025,Manitoba
+M006,Packaging Film,Additive,PaperFlex Supply,roll,1.02,78498,13535,8,10/16/2025,Manitoba
+M009,Polymer Additive,Asphalt,WrapPro Solutions,kg,12.06,9759,17100,6,10/9/2025,Ontario
+M002,Polymer Additive,Packaging,WrapPro Solutions,kg,11.78,77782,19546,10,10/8/2025,Ontario
+M009,Meta,Adhesive,MatTech Canada,kg,0.24,21637,3466,4,10/1/2025,Quebec
+M009,Bitumen Modifier,Additive,WrapPro Solutions,kg,1.68,27756,308,5,10/11/2025,Quebec
+M003,Meta,Adhesive,ColorRock Materials,kg,4.75,25805,5568,4,9/30/2025,Quebec
+M002,Polymer Additive,Packaging,WrapPro Solutions,roll,0.72,25998,17554,9,10/3/2025,Ontario
+M007,Meta,Asphalt,North PetroChem,roll,3.01,52717,4637,4,10/5/2025,Ontario
+M001,Packaging Film,Surface Coating,SealTech Corp,kg,4.36,39025,961,10,10/17/2025,Alberta
+M008,Fiberglass Mat,Filler,PaperFlex Supply,kg,3.06,30004,10929,8,10/2/2025,Quebec
+M005,Adhesive Compound,Packaging,ColorRock Materials,kg,5.51,27329,7057,9,10/2/2025,Ontario
+M005,Packaging Film,Adhesive,MatTech Canada,roll,1.29,3685,1520,4,10/6/2025,Quebec
+M009,Packaging Film,Additive,FlexChem Industries,kg,8.97,65739,3290,10,10/17/2025,Quebec
+M003,Crushed Limestone,Packaging,MatTech Canada,kg,11.59,27576,19728,5,10/10/2025,Quebec
+M007,Bitumen Modifier,Asphalt,North PetroChem,roll,11.53,14488,8523,4,10/4/2025,Ontario
+M002,Adhesive Compound,Surface Coating,North PetroChem,kg,0.22,24536,11428,4,10/16/2025,Manitoba
+M001,Granules (Slate Grey),Asphalt,PetroPolymers Inc,kg,8.81,12641,15306,5,9/30/2025,Quebec
+M004,Crushed Limestone,Adhesive,PetroPolymers Inc,roll,11.56,40210,2781,8,10/5/2025,Alberta
+M009,Granules (Slate Grey),Fiberglass,WrapPro Solutions,kg,12.17,23290,13003,6,10/16/2025,Alberta
+M001,Meta,Fiberglass,North PetroChem,kg,9.15,66822,3042,8,10/6/2025,Ontario
+M003,Polymer Additive,Surface Coating,StoneWorks Ltd,kg,10.48,59260,7370,7,10/9/2025,Quebec
+M006,Packaging Film,Additive,MatTech Canada,kg,11.05,66182,13520,9,10/14/2025,Manitoba
+M010,Granules (Slate Grey),Surface Coating,WrapPro Solutions,roll,4.25,32588,2320,5,10/2/2025,Manitoba
+M006,Polymer Additive,Additive,WrapPro Solutions,kg,2.02,68191,11177,10,10/9/2025,Alberta
+M005,Adhesive Compound,Asphalt,MatTech Canada,roll,0.2,50937,8044,4,10/12/2025,Ontario
+M004,Fiberglass Mat,Adhesive,North PetroChem,roll,12.17,35116,13059,10,10/17/2025,Manitoba
+M005,Crushed Limestone,Fiberglass,WrapPro Solutions,roll,11.72,26327,18981,6,10/6/2025,Manitoba
+M008,Fiberglass Mat,Asphalt,WrapPro Solutions,kg,4.42,47388,8487,7,10/13/2025,Manitoba
+M003,Fiberglass Mat,Adhesive,PetroPolymers Inc,kg,0.09,66683,12068,10,10/16/2025,Manitoba
+M008,Granules (Slate Grey),Asphalt,SealTech Corp,kg,8.71,57758,9160,6,10/13/2025,Alberta
+M002,Meta,Filler,PetroPolymers Inc,roll,7.08,34568,10632,9,10/9/2025,Quebec
+M010,Adhesive Compound,Additive,North PetroChem,kg,11.74,32730,14263,4,10/7/2025,Quebec
+M005,Fiberglass Mat,Additive,ColorRock Materials,kg,0.47,76008,4709,10,10/17/2025,Manitoba
+M009,Meta,Surface Coating,StoneWorks Ltd,roll,8.33,75586,7047,4,10/11/2025,Alberta
+M007,Oxidized Asphalt,Surface Coating,WrapPro Solutions,roll,7.3,59181,1065,6,10/19/2025,Alberta
+M004,Crushed Limestone,Adhesive,FlexChem Industries,roll,0.95,43413,8153,9,10/9/2025,Alberta
+M004,Meta,Asphalt,FlexChem Industries,roll,1.16,76211,972,7,9/30/2025,Manitoba
+M006,Granules (Slate Grey),Asphalt,ColorRock Materials,roll,8.08,60145,14858,9,10/8/2025,Ontario
+M008,Meta,Packaging,StoneWorks Ltd,kg,3.77,3814,19274,5,10/11/2025,Alberta
+M007,Granules (Slate Grey),Filler,MatTech Canada,kg,5.97,37769,4108,7,10/6/2025,Alberta
+M010,Granules (Slate Grey),Fiberglass,SealTech Corp,kg,0.61,71087,5358,5,9/30/2025,Quebec
+M003,Polymer Additive,Packaging,SealTech Corp,kg,3.99,52607,16083,8,10/12/2025,Ontario
+M008,Adhesive Compound,Filler,WrapPro Solutions,kg,5.55,44842,10418,5,9/29/2025,Alberta
+M008,Bitumen Modifier,Fiberglass,ColorRock Materials,roll,10.22,60913,5058,8,10/1/2025,Quebec
+M009,Packaging Film,Additive,SealTech Corp,kg,0.55,77130,4692,8,10/13/2025,Ontario
+M001,Polymer Additive,Adhesive,MatTech Canada,kg,11.09,77522,16165,10,10/1/2025,Alberta
+M008,Meta,Packaging,ColorRock Materials,roll,4.32,18526,3767,7,10/7/2025,Quebec
+M007,Adhesive Compound,Surface Coating,MatTech Canada,roll,6.37,51966,3588,9,10/12/2025,Ontario
+M008,Meta,Adhesive,North PetroChem,kg,12.37,28528,19609,6,10/9/2025,Ontario
+M005,Meta,Packaging,PaperFlex Supply,roll,11.52,79598,18068,4,9/29/2025,Quebec
+M005,Adhesive Compound,Adhesive,PaperFlex Supply,roll,7.69,7649,6420,8,10/15/2025,Alberta
+M007,Oxidized Asphalt,Adhesive,WrapPro Solutions,kg,8.74,57530,18775,8,10/15/2025,Ontario
+M003,Adhesive Compound,Surface Coating,StoneWorks Ltd,kg,7.04,51570,8502,9,10/12/2025,Quebec
+M002,Crushed Limestone,Asphalt,StoneWorks Ltd,roll,10.45,8762,14966,7,10/11/2025,Quebec
+M008,Oxidized Asphalt,Fiberglass,ColorRock Materials,roll,6.75,37490,3018,6,10/11/2025,Manitoba
+M005,Oxidized Asphalt,Filler,StoneWorks Ltd,roll,8.43,34824,2761,8,10/7/2025,Alberta
+M007,Adhesive Compound,Packaging,StoneWorks Ltd,roll,2.55,10895,2203,7,10/2/2025,Quebec
+M004,Meta,Asphalt,WrapPro Solutions,kg,6.44,20069,4574,5,10/13/2025,Ontario
+M009,Fiberglass Mat,Surface Coating,MatTech Canada,roll,8.63,77875,19072,7,10/9/2025,Quebec
+M006,Release Paper,Additive,PetroPolymers Inc,roll,5.39,67749,10538,9,10/6/2025,Ontario
+M005,Crushed Limestone,Adhesive,ColorRock Materials,roll,9.83,52342,19852,4,10/4/2025,Quebec
+M003,Fiberglass Mat,Adhesive,ColorRock Materials,kg,3.27,55312,3337,8,10/17/2025,Manitoba
+M003,Meta,Additive,WrapPro Solutions,kg,11.33,77572,8393,8,10/12/2025,Quebec
+M005,Granules (Slate Grey),Packaging,FlexChem Industries,roll,8.03,68548,13767,8,10/9/2025,Quebec
+M008,Fiberglass Mat,Packaging,WrapPro Solutions,kg,11.3,30679,16290,6,10/1/2025,Quebec
+M008,Crushed Limestone,Adhesive,PaperFlex Supply,roll,0.24,8313,16380,4,10/10/2025,Alberta
+M004,Adhesive Compound,Fiberglass,SealTech Corp,kg,1.06,50771,13805,10,10/10/2025,Manitoba
+M009,Release Paper,Packaging,MatTech Canada,roll,1.59,38786,8802,5,10/4/2025,Alberta
+M007,Polymer Additive,Filler,FlexChem Industries,kg,1.62,34083,11124,7,10/6/2025,Alberta
+M001,Granules (Slate Grey),Filler,PaperFlex Supply,roll,0.42,26832,792,5,10/12/2025,Quebec
+M008,Adhesive Compound,Adhesive,SealTech Corp,roll,7.37,62171,12061,6,10/16/2025,Manitoba
+M005,Bitumen Modifier,Packaging,WrapPro Solutions,kg,7.46,69033,19368,8,9/28/2025,Quebec
+M001,Polymer Additive,Filler,SealTech Corp,kg,8.12,50004,18325,10,10/4/2025,Alberta
+M009,Adhesive Compound,Filler,ColorRock Materials,kg,3.36,59843,13321,5,9/30/2025,Alberta
+M004,Granules (Slate Grey),Asphalt,SealTech Corp,kg,8.87,5869,17608,5,10/2/2025,Quebec
+M004,Adhesive Compound,Asphalt,MatTech Canada,kg,1.67,13913,18119,10,9/30/2025,Manitoba
+M007,Crushed Limestone,Additive,ColorRock Materials,roll,8.26,6942,15342,5,10/12/2025,Ontario
+M009,Crushed Limestone,Asphalt,MatTech Canada,kg,0.71,61545,827,7,10/7/2025,Quebec
+M006,Release Paper,Surface Coating,MatTech Canada,roll,5.06,68325,12659,7,10/2/2025,Alberta
+M009,Packaging Film,Surface Coating,PetroPolymers Inc,roll,2.56,73123,2544,10,10/1/2025,Alberta
+M005,Fiberglass Mat,Filler,PaperFlex Supply,kg,1.6,75496,17733,7,10/16/2025,Manitoba
+M007,Meta,Packaging,FlexChem Industries,roll,8.37,45535,16378,6,9/30/2025,Manitoba
+M010,Adhesive Compound,Adhesive,MatTech Canada,roll,8.53,58082,15154,10,10/6/2025,Alberta
+M003,Packaging Film,Adhesive,MatTech Canada,roll,10.52,72683,1724,6,10/6/2025,Ontario
+M010,Granules (Slate Grey),Filler,WrapPro Solutions,roll,5.55,15312,18917,10,10/11/2025,Ontario
+M005,Release Paper,Fiberglass,MatTech Canada,roll,0.37,6981,1923,10,10/10/2025,Ontario
+M005,Oxidized Asphalt,Adhesive,StoneWorks Ltd,roll,11.22,7088,17461,10,10/15/2025,Manitoba
+M007,Granules (Slate Grey),Packaging,PaperFlex Supply,roll,4.96,66237,19245,6,10/7/2025,Manitoba
+M003,Adhesive Compound,Filler,North PetroChem,kg,4.25,56718,16415,9,10/12/2025,Manitoba
+M008,Polymer Additive,Fiberglass,ColorRock Materials,kg,11.95,18565,10736,5,9/30/2025,Ontario
+M007,Polymer Additive,Packaging,PetroPolymers Inc,roll,11.59,20659,6765,9,10/18/2025,Manitoba
+M006,Release Paper,Filler,North PetroChem,roll,5.49,55086,1367,6,10/17/2025,Alberta
+M001,Polymer Additive,Fiberglass,PetroPolymers Inc,roll,11.13,27362,11813,8,10/11/2025,Quebec
+M001,Packaging Film,Additive,FlexChem Industries,kg,1.16,14809,17606,5,10/11/2025,Manitoba
+M006,Packaging Film,Filler,StoneWorks Ltd,kg,2.4,50047,11655,7,10/8/2025,Alberta
+M007,Oxidized Asphalt,Packaging,StoneWorks Ltd,roll,2.17,14219,14877,4,10/10/2025,Quebec
+M009,Polymer Additive,Packaging,FlexChem Industries,roll,11.67,21756,18427,10,10/9/2025,Ontario
+M009,Meta,Asphalt,WrapPro Solutions,kg,10.78,7543,17470,10,10/7/2025,Manitoba
+M006,Release Paper,Asphalt,North PetroChem,roll,10.8,11777,3467,5,9/30/2025,Manitoba
+M004,Bitumen Modifier,Additive,SealTech Corp,kg,8.93,55054,4588,6,10/3/2025,Manitoba
+M008,Meta,Additive,MatTech Canada,kg,6.91,24979,4802,9,10/1/2025,Quebec
+M005,Packaging Film,Adhesive,WrapPro Solutions,roll,11.7,78634,8417,5,10/17/2025,Manitoba
+M001,Granules (Slate Grey),Additive,FlexChem Industries,roll,0.24,25062,12251,10,10/14/2025,Alberta
+M008,Packaging Film,Adhesive,StoneWorks Ltd,kg,11.57,9075,1795,5,9/30/2025,Ontario
+M007,Meta,Packaging,SealTech Corp,kg,6.05,70488,6213,5,10/15/2025,Alberta
+M007,Crushed Limestone,Asphalt,WrapPro Solutions,kg,10.21,18939,5281,5,10/18/2025,Alberta
+M001,Bitumen Modifier,Filler,MatTech Canada,kg,7.82,73940,19114,5,10/2/2025,Manitoba
+M004,Release Paper,Fiberglass,StoneWorks Ltd,kg,1.91,61537,363,6,10/2/2025,Quebec
+M003,Crushed Limestone,Adhesive,MatTech Canada,kg,5.92,15549,12346,9,10/14/2025,Ontario
+M009,Oxidized Asphalt,Adhesive,ColorRock Materials,kg,4.04,27798,12103,4,10/2/2025,Ontario
+M006,Packaging Film,Additive,WrapPro Solutions,kg,12.42,63061,19819,8,9/30/2025,Manitoba
+M002,Crushed Limestone,Asphalt,FlexChem Industries,kg,1.81,52856,2139,8,10/17/2025,Quebec
+M003,Adhesive Compound,Adhesive,ColorRock Materials,kg,3.72,26100,14021,9,10/14/2025,Manitoba
+M009,Fiberglass Mat,Adhesive,ColorRock Materials,kg,6.55,28374,3990,5,10/7/2025,Manitoba
+M002,Fiberglass Mat,Packaging,WrapPro Solutions,roll,4.73,21576,3239,9,10/13/2025,Alberta
+M009,Fiberglass Mat,Additive,PaperFlex Supply,kg,12.01,45102,16647,6,10/12/2025,Ontario
+M003,Crushed Limestone,Filler,FlexChem Industries,kg,8.43,35733,5399,4,10/6/2025,Quebec
+M008,Oxidized Asphalt,Adhesive,StoneWorks Ltd,kg,10.6,64078,11603,9,10/11/2025,Alberta
+M009,Adhesive Compound,Packaging,StoneWorks Ltd,kg,1.71,4289,11778,5,10/6/2025,Quebec
+M007,Adhesive Compound,Surface Coating,WrapPro Solutions,roll,8.4,5052,17979,5,10/6/2025,Alberta
+M010,Crushed Limestone,Packaging,ColorRock Materials,roll,7.77,72580,8903,10,10/9/2025,Ontario
+M002,Polymer Additive,Packaging,MatTech Canada,kg,7.04,5178,7542,6,10/3/2025,Alberta
+M007,Release Paper,Surface Coating,North PetroChem,kg,3.53,66105,8260,6,9/29/2025,Ontario
+M009,Release Paper,Fiberglass,PetroPolymers Inc,roll,3.82,58101,7927,7,10/5/2025,Alberta
+M007,Crushed Limestone,Packaging,SealTech Corp,kg,10.04,16744,10049,7,10/6/2025,Alberta
+M009,Adhesive Compound,Filler,FlexChem Industries,roll,10.5,40642,2551,8,10/18/2025,Ontario
+M009,Bitumen Modifier,Fiberglass,FlexChem Industries,roll,7.47,78824,9956,7,9/30/2025,Alberta
+M010,Release Paper,Asphalt,SealTech Corp,roll,4.77,61017,15942,6,10/19/2025,Manitoba
+M009,Granules (Slate Grey),Additive,SealTech Corp,kg,9.99,8841,7316,9,10/16/2025,Ontario
+M004,Adhesive Compound,Adhesive,FlexChem Industries,kg,11.36,52732,1505,10,10/16/2025,Manitoba
+M009,Oxidized Asphalt,Packaging,WrapPro Solutions,roll,6.87,28195,6413,5,10/7/2025,Alberta
+M008,Crushed Limestone,Filler,SealTech Corp,kg,12.49,25804,6006,6,10/8/2025,Manitoba
+M006,Packaging Film,Packaging,StoneWorks Ltd,kg,8.54,6335,7879,9,10/18/2025,Manitoba
+M008,Granules (Slate Grey),Surface Coating,WrapPro Solutions,roll,5.87,16844,16270,6,10/4/2025,Ontario
+M002,Fiberglass Mat,Packaging,WrapPro Solutions,kg,0.73,25343,18352,9,10/6/2025,Manitoba
+M007,Polymer Additive,Asphalt,PetroPolymers Inc,roll,7.49,18579,12321,7,10/18/2025,Ontario
+M004,Packaging Film,Asphalt,StoneWorks Ltd,roll,8.92,3795,18895,8,10/2/2025,Quebec
+M006,Bitumen Modifier,Asphalt,WrapPro Solutions,roll,9.48,40438,9608,4,10/7/2025,Manitoba
+M001,Bitumen Modifier,Filler,StoneWorks Ltd,kg,2.08,38294,3666,8,9/28/2025,Ontario
+M003,Release Paper,Asphalt,North PetroChem,roll,2.34,21930,8806,8,10/10/2025,Alberta
+M006,Bitumen Modifier,Adhesive,PaperFlex Supply,kg,7.85,41975,1941,10,10/7/2025,Manitoba
+M006,Oxidized Asphalt,Fiberglass,North PetroChem,roll,11.16,62787,3033,6,10/9/2025,Quebec
+M003,Polymer Additive,Asphalt,PaperFlex Supply,roll,5.81,22868,10077,7,10/8/2025,Alberta
+M005,Polymer Additive,Asphalt,FlexChem Industries,roll,11.89,37873,16848,6,10/15/2025,Ontario
+M002,Polymer Additive,Packaging,PetroPolymers Inc,roll,9.53,5192,6618,4,9/30/2025,Ontario
+M009,Bitumen Modifier,Adhesive,WrapPro Solutions,roll,8.74,66231,9580,9,10/1/2025,Quebec
+M009,Oxidized Asphalt,Additive,MatTech Canada,kg,9.95,74023,10745,5,9/30/2025,Quebec
+M001,Release Paper,Additive,WrapPro Solutions,kg,8.16,36528,18870,4,10/19/2025,Alberta
+M009,Adhesive Compound,Adhesive,SealTech Corp,kg,9.05,17188,16334,9,10/3/2025,Alberta
+M002,Release Paper,Filler,WrapPro Solutions,kg,4.29,24681,19042,10,10/13/2025,Ontario
+M009,Release Paper,Surface Coating,PetroPolymers Inc,kg,10.55,14359,17531,8,10/2/2025,Alberta
+M008,Fiberglass Mat,Fiberglass,WrapPro Solutions,roll,3.62,43835,14274,9,10/18/2025,Quebec
+M005,Release Paper,Filler,StoneWorks Ltd,kg,11.55,38873,19803,4,10/4/2025,Manitoba
+M005,Bitumen Modifier,Surface Coating,MatTech Canada,kg,5.08,26574,9763,6,10/19/2025,Quebec
+M009,Adhesive Compound,Additive,SealTech Corp,kg,0.75,2774,10567,7,10/13/2025,Quebec
+M007,Granules (Slate Grey),Packaging,SealTech Corp,kg,0.28,55252,16508,10,10/12/2025,Manitoba
+M001,Crushed Limestone,Asphalt,WrapPro Solutions,kg,9.91,56095,17702,6,10/10/2025,Manitoba
+M007,Crushed Limestone,Asphalt,ColorRock Materials,roll,5.22,45120,13881,6,9/30/2025,Manitoba
+M003,Oxidized Asphalt,Additive,SealTech Corp,roll,0.25,78097,14415,7,10/8/2025,Alberta
+M007,Packaging Film,Adhesive,WrapPro Solutions,roll,6.87,57965,9324,5,10/5/2025,Alberta
+M007,Packaging Film,Surface Coating,StoneWorks Ltd,roll,7.69,75130,6810,6,10/15/2025,Alberta
+M003,Granules (Slate Grey),Surface Coating,MatTech Canada,kg,6.29,31259,13614,5,10/5/2025,Manitoba
+M006,Release Paper,Surface Coating,ColorRock Materials,roll,2.75,24044,9473,5,10/5/2025,Quebec
+M009,Release Paper,Packaging,PetroPolymers Inc,roll,8.13,53547,6482,4,10/19/2025,Quebec
+M001,Bitumen Modifier,Packaging,PetroPolymers Inc,roll,3.44,69377,3526,5,10/9/2025,Ontario
+M002,Bitumen Modifier,Filler,MatTech Canada,kg,9.44,42993,3141,6,10/19/2025,Quebec
+M005,Packaging Film,Adhesive,StoneWorks Ltd,kg,11.88,37409,7039,10,10/19/2025,Alberta
+M006,Granules (Slate Grey),Surface Coating,WrapPro Solutions,kg,3.24,7534,8997,4,9/28/2025,Manitoba
+M009,Bitumen Modifier,Fiberglass,North PetroChem,roll,4.3,32499,14082,8,9/28/2025,Ontario
+M010,Fiberglass Mat,Adhesive,StoneWorks Ltd,kg,4.24,41522,16832,9,10/4/2025,Quebec
+M006,Fiberglass Mat,Filler,North PetroChem,kg,7.94,26755,12250,4,10/2/2025,Alberta
+M008,Adhesive Compound,Surface Coating,WrapPro Solutions,kg,5.48,31514,10581,5,10/19/2025,Alberta
+M003,Release Paper,Packaging,PetroPolymers Inc,roll,10.25,50754,15121,10,10/7/2025,Manitoba
+M008,Polymer Additive,Additive,PetroPolymers Inc,roll,6.71,58802,14619,10,10/6/2025,Ontario
+M004,Bitumen Modifier,Adhesive,PaperFlex Supply,kg,5.85,46733,11151,4,9/30/2025,Ontario
+M006,Crushed Limestone,Asphalt,FlexChem Industries,roll,7.04,11451,5453,4,10/19/2025,Quebec
+M009,Polymer Additive,Surface Coating,FlexChem Industries,kg,11.65,5146,18990,9,10/14/2025,Ontario
+M010,Crushed Limestone,Fiberglass,MatTech Canada,roll,11.22,19325,13301,5,10/13/2025,Alberta
+M008,Crushed Limestone,Asphalt,PaperFlex Supply,kg,9.95,38704,12581,9,10/9/2025,Ontario
+M010,Fiberglass Mat,Fiberglass,FlexChem Industries,roll,8.66,41126,3293,6,10/9/2025,Ontario
+M004,Packaging Film,Adhesive,MatTech Canada,kg,3.88,49215,4042,7,9/30/2025,Alberta
+M010,Fiberglass Mat,Fiberglass,North PetroChem,kg,6.62,43443,9347,6,10/6/2025,Alberta
+M008,Bitumen Modifier,Asphalt,StoneWorks Ltd,roll,1.17,3314,6498,7,10/12/2025,Manitoba
+M006,Granules (Slate Grey),Filler,StoneWorks Ltd,kg,2.08,5597,11805,4,10/9/2025,Ontario
+M002,Packaging Film,Filler,ColorRock Materials,roll,2.28,77240,10992,10,10/7/2025,Manitoba
+M006,Polymer Additive,Asphalt,North PetroChem,kg,7.11,47571,13866,4,10/11/2025,Manitoba
+M008,Meta,Packaging,FlexChem Industries,kg,3.04,12511,1714,7,9/29/2025,Ontario
+M004,Adhesive Compound,Filler,ColorRock Materials,kg,4.23,67807,12478,7,10/19/2025,Quebec
+M008,Meta,Surface Coating,PaperFlex Supply,kg,1.06,50152,616,8,10/12/2025,Manitoba
+M002,Crushed Limestone,Filler,SealTech Corp,roll,9.76,53293,2716,7,10/5/2025,Alberta
+M002,Packaging Film,Packaging,ColorRock Materials,kg,8.81,24901,1264,5,10/1/2025,Quebec
+M001,Polymer Additive,Filler,WrapPro Solutions,kg,1.27,17618,16135,5,10/11/2025,Manitoba
+M004,Oxidized Asphalt,Fiberglass,MatTech Canada,kg,0.33,10875,18481,7,10/17/2025,Alberta
+M004,Meta,Surface Coating,FlexChem Industries,roll,0.21,23054,2144,6,10/11/2025,Alberta
+M007,Meta,Fiberglass,MatTech Canada,roll,4.18,50057,7426,9,10/17/2025,Alberta
+M006,Release Paper,Fiberglass,WrapPro Solutions,kg,7.48,32505,11108,5,10/11/2025,Ontario
+M007,Meta,Fiberglass,FlexChem Industries,kg,7.57,79091,10899,5,10/13/2025,Ontario
+M005,Packaging Film,Surface Coating,ColorRock Materials,roll,9.03,40641,3205,5,10/2/2025,Alberta
+M008,Crushed Limestone,Packaging,North PetroChem,kg,12.14,34633,5212,5,10/17/2025,Ontario
+M004,Crushed Limestone,Filler,SealTech Corp,roll,3.68,16261,2032,9,9/29/2025,Manitoba
+M008,Crushed Limestone,Asphalt,North PetroChem,roll,10.99,56109,11328,4,10/8/2025,Manitoba
+M005,Fiberglass Mat,Filler,StoneWorks Ltd,roll,11.17,2545,17483,10,10/18/2025,Quebec
+M001,Granules (Slate Grey),Surface Coating,North PetroChem,roll,9.13,76403,11766,4,10/13/2025,Ontario
+M006,Bitumen Modifier,Packaging,PaperFlex Supply,kg,6.55,58943,14397,8,10/5/2025,Manitoba
+M006,Oxidized Asphalt,Additive,ColorRock Materials,kg,1.44,57830,2203,10,10/8/2025,Ontario
+M004,Crushed Limestone,Surface Coating,SealTech Corp,kg,11.0,46983,13330,7,10/18/2025,Ontario
+M001,Fiberglass Mat,Surface Coating,ColorRock Materials,kg,5.03,16893,8101,9,10/3/2025,Quebec
+M008,Polymer Additive,Filler,PetroPolymers Inc,roll,6.86,10750,13745,4,10/7/2025,Quebec
+M003,Meta,Fiberglass,MatTech Canada,roll,4.46,27098,6745,7,10/7/2025,Manitoba
+M004,Adhesive Compound,Adhesive,North PetroChem,kg,9.63,66199,12659,5,10/15/2025,Ontario
+M004,Granules (Slate Grey),Surface Coating,ColorRock Materials,roll,11.12,31134,12207,5,10/17/2025,Quebec
+M010,Release Paper,Filler,North PetroChem,kg,5.77,47337,15390,6,10/10/2025,Ontario
+M006,Granules (Slate Grey),Filler,SealTech Corp,kg,2.81,46546,7044,10,10/17/2025,Manitoba
+M006,Release Paper,Asphalt,PaperFlex Supply,roll,11.92,18983,6359,6,10/5/2025,Quebec
+M001,Release Paper,Packaging,PaperFlex Supply,kg,6.46,71727,7988,7,9/29/2025,Alberta
+M002,Meta,Adhesive,PetroPolymers Inc,roll,9.46,74638,2980,10,9/28/2025,Alberta
+M009,Bitumen Modifier,Fiberglass,MatTech Canada,kg,11.2,30207,9681,9,10/9/2025,Ontario
+M008,Granules (Slate Grey),Surface Coating,FlexChem Industries,kg,3.37,3722,14723,8,10/15/2025,Ontario
+M002,Polymer Additive,Additive,ColorRock Materials,roll,6.63,76951,14536,9,10/2/2025,Quebec
+M001,Oxidized Asphalt,Surface Coating,StoneWorks Ltd,kg,12.5,74868,4268,9,10/18/2025,Ontario
+M004,Adhesive Compound,Additive,WrapPro Solutions,kg,0.64,9118,12154,10,10/6/2025,Manitoba
+M001,Bitumen Modifier,Asphalt,PaperFlex Supply,kg,6.42,5130,17917,9,10/5/2025,Ontario
+M010,Adhesive Compound,Packaging,WrapPro Solutions,kg,6.5,62663,13866,8,10/2/2025,Ontario
+M001,Packaging Film,Fiberglass,SealTech Corp,kg,3.54,24313,7533,7,10/5/2025,Ontario
+M010,Polymer Additive,Surface Coating,StoneWorks Ltd,kg,7.43,63116,15089,5,10/19/2025,Alberta
+M003,Crushed Limestone,Filler,SealTech Corp,kg,5.35,4456,2719,8,10/3/2025,Alberta
+M007,Packaging Film,Adhesive,SealTech Corp,kg,9.68,7707,7382,6,10/9/2025,Quebec
+M006,Release Paper,Additive,WrapPro Solutions,roll,0.2,73492,16267,8,10/2/2025,Quebec
+M003,Crushed Limestone,Adhesive,North PetroChem,roll,11.05,47076,406,6,10/14/2025,Manitoba
+M005,Polymer Additive,Surface Coating,FlexChem Industries,kg,7.85,24092,13374,9,10/16/2025,Manitoba
+M007,Bitumen Modifier,Packaging,SealTech Corp,kg,4.22,70798,16913,9,10/14/2025,Alberta
+M007,Oxidized Asphalt,Asphalt,ColorRock Materials,roll,10.99,40386,17491,10,10/11/2025,Ontario
+M004,Release Paper,Fiberglass,PetroPolymers Inc,kg,9.92,52849,13968,6,10/17/2025,Ontario
+M006,Fiberglass Mat,Additive,PetroPolymers Inc,roll,2.29,60218,18178,10,10/3/2025,Alberta
+M004,Oxidized Asphalt,Additive,ColorRock Materials,kg,8.46,73614,18410,5,10/3/2025,Quebec
+M002,Meta,Additive,PaperFlex Supply,kg,8.78,41524,16881,6,10/11/2025,Manitoba
+M008,Meta,Fiberglass,North PetroChem,kg,4.26,29810,15785,10,10/14/2025,Alberta
+M005,Granules (Slate Grey),Surface Coating,StoneWorks Ltd,kg,1.32,69382,6888,10,9/28/2025,Quebec
+M006,Polymer Additive,Asphalt,PaperFlex Supply,kg,7.62,43728,13264,4,10/14/2025,Alberta
+M003,Packaging Film,Additive,PaperFlex Supply,kg,8.4,56256,561,10,10/9/2025,Ontario
+M004,Bitumen Modifier,Fiberglass,ColorRock Materials,roll,3.49,39710,3119,6,10/3/2025,Alberta
+M008,Release Paper,Filler,North PetroChem,kg,7.7,45770,9510,5,10/18/2025,Ontario
+M003,Fiberglass Mat,Packaging,PaperFlex Supply,roll,7.1,7349,6719,7,10/2/2025,Alberta
+M007,Crushed Limestone,Additive,StoneWorks Ltd,kg,6.6,26826,7636,8,10/3/2025,Manitoba
+M003,Adhesive Compound,Additive,PetroPolymers Inc,kg,5.44,32952,19869,5,10/5/2025,Quebec
+M007,Bitumen Modifier,Additive,FlexChem Industries,kg,5.13,9785,18686,10,10/4/2025,Ontario
+M006,Fiberglass Mat,Surface Coating,North PetroChem,roll,6.02,13270,1196,6,10/13/2025,Alberta
+M008,Fiberglass Mat,Fiberglass,StoneWorks Ltd,kg,11.08,67857,1302,9,10/11/2025,Alberta
+M008,Packaging Film,Additive,PetroPolymers Inc,roll,5.34,10679,391,10,10/10/2025,Ontario
+M005,Oxidized Asphalt,Fiberglass,FlexChem Industries,kg,11.5,38665,18509,5,10/1/2025,Manitoba
+M004,Adhesive Compound,Adhesive,WrapPro Solutions,roll,0.27,16028,13707,8,10/19/2025,Alberta
+M005,Meta,Additive,MatTech Canada,roll,3.95,48812,18964,7,10/10/2025,Ontario
+M005,Crushed Limestone,Surface Coating,ColorRock Materials,roll,0.18,50598,5987,9,10/19/2025,Manitoba
+M010,Fiberglass Mat,Adhesive,ColorRock Materials,roll,0.09,11462,4551,9,10/17/2025,Quebec
+M001,Packaging Film,Additive,SealTech Corp,kg,9.29,23120,5039,10,10/7/2025,Quebec
+M010,Meta,Surface Coating,StoneWorks Ltd,kg,6.13,27904,19500,9,10/2/2025,Alberta
+M006,Packaging Film,Filler,SealTech Corp,roll,7.55,42555,8793,7,10/4/2025,Alberta
+M001,Release Paper,Asphalt,North PetroChem,roll,5.77,30250,1675,8,10/18/2025,Alberta
+M005,Packaging Film,Packaging,SealTech Corp,roll,5.57,48270,9271,9,10/8/2025,Alberta
+M007,Release Paper,Additive,WrapPro Solutions,roll,9.78,57774,8401,9,9/28/2025,Alberta
+M002,Polymer Additive,Asphalt,North PetroChem,roll,3.15,78019,8975,5,10/10/2025,Quebec
+M003,Fiberglass Mat,Adhesive,StoneWorks Ltd,roll,0.08,48159,1389,9,10/14/2025,Ontario
+M006,Bitumen Modifier,Additive,MatTech Canada,kg,7.02,74604,5146,6,10/2/2025,Quebec
+M007,Fiberglass Mat,Packaging,PetroPolymers Inc,kg,2.01,34815,14552,9,10/14/2025,Quebec
+M004,Packaging Film,Surface Coating,SealTech Corp,kg,8.6,78005,11713,5,10/4/2025,Alberta
+M002,Bitumen Modifier,Surface Coating,ColorRock Materials,roll,12.1,51264,19862,8,10/3/2025,Quebec
+M005,Granules (Slate Grey),Adhesive,SealTech Corp,roll,4.27,16663,14142,5,10/1/2025,Manitoba
+M002,Polymer Additive,Packaging,StoneWorks Ltd,roll,0.44,62428,7218,5,10/4/2025,Ontario
+M001,Packaging Film,Adhesive,ColorRock Materials,kg,0.98,51426,14133,10,9/30/2025,Ontario
+M005,Bitumen Modifier,Filler,SealTech Corp,roll,2.39,39697,10509,10,10/9/2025,Ontario
+M003,Crushed Limestone,Surface Coating,ColorRock Materials,roll,9.12,61110,10390,10,10/18/2025,Quebec
+M004,Oxidized Asphalt,Fiberglass,PetroPolymers Inc,roll,5.14,58601,17039,5,10/7/2025,Quebec
+M005,Meta,Asphalt,North PetroChem,roll,9.51,46953,19918,9,10/14/2025,Quebec
+M010,Adhesive Compound,Packaging,FlexChem Industries,roll,1.5,32619,8346,7,10/2/2025,Alberta
+M003,Release Paper,Asphalt,PaperFlex Supply,kg,1.02,78974,11030,8,10/15/2025,Ontario
+M001,Meta,Adhesive,SealTech Corp,roll,9.72,77277,4611,9,10/2/2025,Alberta
+M007,Adhesive Compound,Adhesive,SealTech Corp,roll,6.65,70063,7388,6,10/8/2025,Alberta
+M008,Oxidized Asphalt,Asphalt,WrapPro Solutions,kg,6.87,11206,11149,4,10/5/2025,Manitoba
+M005,Packaging Film,Surface Coating,StoneWorks Ltd,kg,3.26,33392,5231,6,9/30/2025,Ontario
+M007,Meta,Additive,WrapPro Solutions,kg,6.43,36928,5852,4,10/19/2025,Alberta
+M005,Meta,Packaging,SealTech Corp,kg,8.73,52087,16995,6,10/10/2025,Ontario
+M004,Polymer Additive,Packaging,WrapPro Solutions,roll,12.07,61374,10316,4,10/14/2025,Quebec
+M008,Oxidized Asphalt,Fiberglass,StoneWorks Ltd,kg,11.0,38554,16065,5,10/19/2025,Manitoba
+M007,Release Paper,Packaging,PetroPolymers Inc,roll,8.41,12399,9318,8,10/19/2025,Alberta
+M001,Crushed Limestone,Fiberglass,ColorRock Materials,kg,3.84,10846,823,7,10/9/2025,Alberta
+M006,Meta,Packaging,PaperFlex Supply,roll,3.33,77813,9130,9,10/6/2025,Quebec
+M005,Release Paper,Surface Coating,PetroPolymers Inc,roll,8.11,46688,876,10,10/4/2025,Quebec
+M001,Crushed Limestone,Filler,FlexChem Industries,kg,5.79,67282,4778,6,9/29/2025,Alberta
+M004,Fiberglass Mat,Surface Coating,StoneWorks Ltd,roll,4.07,46101,11057,4,10/13/2025,Ontario
+M005,Meta,Adhesive,StoneWorks Ltd,kg,8.66,75035,1636,6,9/28/2025,Manitoba
+M004,Crushed Limestone,Additive,FlexChem Industries,kg,11.7,44987,11603,6,10/7/2025,Quebec
+M004,Release Paper,Surface Coating,MatTech Canada,kg,5.02,4096,16518,4,10/11/2025,Manitoba
+M002,Adhesive Compound,Asphalt,SealTech Corp,roll,7.81,67801,3706,10,10/12/2025,Manitoba
+M003,Bitumen Modifier,Additive,North PetroChem,roll,12.21,49333,10692,5,10/12/2025,Alberta
+M005,Fiberglass Mat,Filler,MatTech Canada,kg,11.16,14265,3026,4,10/12/2025,Alberta
+M007,Release Paper,Fiberglass,FlexChem Industries,roll,0.45,17420,3616,7,10/10/2025,Manitoba
+M007,Meta,Asphalt,WrapPro Solutions,kg,2.47,43168,13403,7,10/3/2025,Quebec
+M002,Adhesive Compound,Adhesive,SealTech Corp,roll,7.99,49486,17906,8,9/28/2025,Quebec
+M003,Meta,Asphalt,ColorRock Materials,roll,1.92,8891,12234,4,10/18/2025,Ontario
+M006,Adhesive Compound,Adhesive,PaperFlex Supply,roll,4.7,59585,4244,6,10/5/2025,Ontario
+M010,Fiberglass Mat,Surface Coating,North PetroChem,kg,1.43,48974,11984,7,10/19/2025,Manitoba
+M001,Oxidized Asphalt,Surface Coating,FlexChem Industries,kg,5.96,51621,9554,10,10/16/2025,Alberta
+M008,Release Paper,Surface Coating,MatTech Canada,roll,2.39,63121,16937,10,10/3/2025,Quebec
+M002,Packaging Film,Filler,PaperFlex Supply,roll,3.5,12118,13661,6,10/6/2025,Alberta
+M006,Oxidized Asphalt,Packaging,WrapPro Solutions,kg,2.9,54030,9126,5,10/2/2025,Ontario
+M008,Release Paper,Adhesive,WrapPro Solutions,kg,4.68,67907,10601,5,10/3/2025,Quebec
